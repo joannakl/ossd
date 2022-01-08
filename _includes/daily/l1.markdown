@@ -4,16 +4,17 @@
 <p markdown="block">
 
 Class #1 <br>
-Mon, 1/27
+Tue, 1/25
 
 </p>
 </div>
 <div class="column_materials">
 <p markdown="block">
 
+<!--
 Intro to the class.
 
-[Course logistics](slides/course_logistics.html)  
+[Course logistics](slides/course_logistics.html)
 
 
 Materials:
@@ -37,7 +38,7 @@ Materials:
   There is no shortage of other advice, just google "How to write a blog" and find something that resonates with you and matches the goals of the course.
 
 
-
+-->
 
 </p>
 </div>
@@ -45,7 +46,7 @@ Materials:
 <div class="column_assign">
 <p markdown="block">
 
-
+<!--
 __Due immediately__:
 - complete this [consent form](https://forms.gle/EA41mUpAqhJtTHQP9)
 - complete this [questionnaire](https://forms.gle/xm3gVtiNBL1bf2kJ6) - if you do not have a GitHub account, create one first
@@ -71,7 +72,7 @@ __Due by the end of the week (Sunday, 2/2/)__:
     Your blog page is at `https://nyu-ossd-s20.github.io/YOUR_USER_NAME-weekly/`
     (after you replace `YOUR_USER_NAME` with your actual username, of course).
 
-
+-->
 
 
 </p>

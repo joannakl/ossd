@@ -4,14 +4,13 @@
 <p markdown="block">
 
 Class #2 <br>
-Wed, 1/29
+Thu, 1/26
 
 </p>
 </div>
 <div class="column_materials">
 <p markdown="block">
 
-[Introduction to FOSS](slides/introduction.html)
 
 </p>
 </div>
