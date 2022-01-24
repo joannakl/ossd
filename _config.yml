@@ -2,7 +2,7 @@
 title: CSCI-UA 480 (Open Source Software Development)
 description: "Course website for CSCI-UA 480 (Open Source Software Development) course."
 
-baseurl: "/ossd_s22" # the subpath of your site, e.g. /blog
+baseurl: "/ossd_s22/" # the subpath of your site, e.g. /blog
 url: "https://joannakl.github.io/ossd_s22" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
@@ -50,7 +50,7 @@ final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 piazza_site: https://edstem.org
 slack_site: http://nyuossd.slack.com/
 gradescope_site: ""
-github_site: https://github.com/nyu-ossd-s22/
+github_site: https://github.com/ossd-sp22/
 
 book_opt_1: "Producing Open Source Software, "
 book_opt_1_author: "Karl Fogel, "
