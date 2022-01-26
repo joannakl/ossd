@@ -1,4 +1,4 @@
-# Course website for CS480, Section 10 (Spring 2020)
+# Course website for CS480, Section 061 (Spring 2022)
 
 
 This repository contains code and content for a website for one of the courses
