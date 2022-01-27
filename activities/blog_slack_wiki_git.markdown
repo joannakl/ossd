@@ -59,12 +59,11 @@ Slack is "A messaging app for teams". Slack helps teams working on projects to d
  1.  Skim over the [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) page to familiarize yourself with the Slack Basics. You don't have to get everything... just get the idea.
  2.  Use this link [nyuossd.slack.com/signup](https://join.slack.com/t/cs-2sr2399/shared_invite/zt-12cw2ik8m-tWRCYB5OIOoObEVUi~Bueg) to sign up directly for our course Slack Workspace.
  3.  [Edit Your Profile](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile) to include at least your first and last name. You can also upload a photo or avatar if you'd like.
- 4.  Skim over the links in the [Work in Channels Topic](https://get.slack.help/hc/en-us/categories/200111606) page do the following:
-     -   Join the #sample-live-log channel.
+ 4.  Skim over the links in the [Work in Channels Topic](https://get.slack.help/hc/en-us/categories/200111606) page
  5.   Skim over the links in the [Send Messages Topic](https://get.slack.help/hc/en-us/categories/200111606#send-messages) do the following:
      -   Post a message to the #general channel.
      -   Edit the message you just posted.
-     -   Star the #sample-live-log channel and note where your starred channels appear.
+     -   Star the #course channel and note where your starred channels appear.
      -   Star a message in the #general channel and note where your starred messages appear.
      -   Add a reaction to a message in the #general channel.
      -   Team up with a classmate or two:
