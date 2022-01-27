@@ -18,6 +18,9 @@ course organization.
 
 [Introduction to FOSS](slides/introduction.html)
 
+[A Beginner’s Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39)
+by Shubheksha Jalan 
+
 <br>
 <br>
 
