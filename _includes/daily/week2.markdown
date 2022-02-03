@@ -34,7 +34,7 @@ Group activity about code of conduct documents.
 ### Lecture 2
 
 
-<!--
+
 
 
 Create your first open source project (at least, in this class).
@@ -60,13 +60,36 @@ See a sample live log's [transcript](https://cs.nyu.edu/~joannakl/ossd_s20/activ
 Readings:
 - MDN [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) documentation
 
--->
+
 
 </div>
 
 <div class="column_assign"  markdown="1">
 
 ### Assignments
+
+
+Due by the end of the week (i.e., Sunday)
+- make your blog post, address in it the questions in the Code of Conduct activity and reflect on your experience working
+on an add-on project
+
+Due by the end of the week (i.e., Sunday)
+<br>[Jim Hall](https://hallmentum.com/about/jimhall/) will be our first invited speaker this semester.
+He is a maintainer of the [FeeDOS](https://www.freedos.org/) project, among other things.
+- read two or three articles published by Jim on [OpenSource.com](https://opensource.com/users/jim-hall) site
+- add a question for Jim,  to the course wiki
+  - add your own question, and enter a number 1 next to it
+  - read through existing questions, and up-vote the questions you like
+    (replace the number next to them with a number __one higher__
+  - go back to the page towards the end of the week to cast your vote on
+    additional questions if you like them
+
+Due by February 12
+- with your group, continue working on the add-on project (make sure you keep your live log updated when you meet with your team to work on this project)
+- make sure that the project follows all the best practices of open source
+- prepare a 5 minute presentation about your project (to be delivered in front of the class on Feb 14)
+
+
 
 
 </div>
