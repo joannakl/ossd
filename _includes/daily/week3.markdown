@@ -31,8 +31,8 @@ Invited talk by [https://hallmentum.com/about/jimhall/](Jim Hall).
 Due by the end of the week:
 - One person from each team working on Firefox add-ons should make a post in the
   browser-extension-presentations page on the class wiki.
-  The post should follow this format: <br\>
-  `Team TeamNumber, [Extension Name](link to the GitHub repo) ` <br\>
+  The post should follow this format: <br/>
+  `Team TeamNumber, [Extension Name](link to the GitHub repo) ` <br/>
   (Where the `Team TeamNumber` is the team number you were given during the in-class session, or
   `Breakout Room 1`, or `Breakout Room 2`, `Team A` - if you were absent and you are in the group working outside of the class
   on the entire project.)
