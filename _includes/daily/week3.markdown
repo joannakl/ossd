@@ -18,7 +18,7 @@ Readings:
 
 ### Lecture 2
 
-Invited talk by [https://hallmentum.com/about/jimhall/](Jim Hall).
+Invited talk by [Jim Hall](https://hallmentum.com/about/jimhall/).
 
 
 
