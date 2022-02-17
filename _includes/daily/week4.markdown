@@ -25,6 +25,8 @@ Presentations of the Firefox add-ons projects.
 
 ### Lecture 2
 
+Project evaluation [slides](slides/project_evaluation.html) 
+
 <!--
 Project evaluation or what to look for in a potential project.
 
@@ -47,6 +49,8 @@ Project evaluation or what to look for in a potential project.
 
 Due by the end of the week:
 - Test out some of the add-on projects created by other teams.
+- Look at the live log for the add-on project of a team that you were assigned. Provide an evaluation for it at
+  the _Live Log Evaluation_ page on the class wiki (the team assignments will be shared on Slack).
 - Make your blog post for the week
   - comment about your group work on the browser extension
   - describe your own contributions to your team's efforts of building
