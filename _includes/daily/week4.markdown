@@ -25,27 +25,14 @@ Presentations of the Firefox add-ons projects.
 
 ### Lecture 2
 
-Project evaluation [slides](slides/project_evaluation.html) 
+Project evaluation [slides](slides/project_evaluation.html)
 
-<!--
-Project evaluation or what to look for in a potential project.
-
-- [Ghidra](https://www.nsa.gov/resources/everyone/ghidra/)
-- [GNOME Clocks](https://wiki.gnome.org/Apps/Clocks)
-- [Godot](https://godotengine.org/)
-- [Inkscape](https://inkscape.org/)
-- [Jupyter](https://jupyter.org/)
-- [OpenEMR](https://www.open-emr.org/)
-
--->
 
 </div>
 
 <div class="column_assign"  markdown="1">
 
 ### Assignments
-
-
 
 Due by the end of the week:
 - Test out some of the add-on projects created by other teams.
