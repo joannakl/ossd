@@ -19,6 +19,12 @@ Relevant materials:
 
 ### Lecture 2
 
+Discussion about different types of open (source)  projects featured in the videos from last week.
+
+[Humanitarian Free and Open Source Software](https://www.timreview.ca/article/399)
+
+[Helping Others Is the Highest Rated Career Value for Both Undergraduate and Graduate Students in Computing](https://cra.org/crn/2018/11/helping-others-is-the-highest-rated-career-value-for-both-undergraduate-and-graduate-students-in-computing/)
+
 
 </div>
 
