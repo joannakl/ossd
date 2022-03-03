@@ -38,8 +38,8 @@ to organize your goals and motivations for the open source contributions, your s
 to the table, and your interests that may play a role in your choice of a project and the team that you end you end up working with. This is for your private account and you do not need to submit anything. But you should treat it seriously.
 -  __readings__ in preparation for discussions next week: [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) by Eric S. Raymond (you should be reading the essay titled [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/) in this book, the second link is a direct link to the XHTML format of that essay, there are other formats available at the book site at the first link)
 - Make your blog post:
- - reflect on Chrispher Snider presentation
- - reflect on the role that open efforts play in communities
+   - reflect on Chrispher Snider presentation
+   - reflect on the role that open efforts play in communities
 
 Due by Sunday, March 13:
 - Pick an open source project that you may be interested in contributing to (this should be something that you are excited about, something that you think you may want to be working on, something that matches your goals and skills as you outlined them in the _taking stock_ exercise; it also should NOT be one of the projects assigned in the first part of the project evaluation exercise that you completed with a partner last week). Complete the project evaluation and create a file for that project in the [project evaluation](https://github.com/ossd-sp22/project-evaluation) repository.
