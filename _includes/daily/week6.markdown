@@ -9,7 +9,7 @@
 ### Lecture 1
 
 Invited talk by
-<a href="https://www.linkedin.com/in/christopherasnider/">Christopher Snider</a>
+<a href="https://www.linkedin.com/in/christopherasnider/"> Christopher Snider </a>
 from <a href="https://www.tidepool.org/open">TidePool</a>.
 
 Relevant materials:
