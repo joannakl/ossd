@@ -75,7 +75,7 @@ on an add-on project
 
 Due by the end of the week (i.e., Sunday)
 <br>[Jim Hall](https://hallmentum.com/about/jimhall/) will be our first invited speaker this semester.
-He is a maintainer of the [FeeDOS](https://www.freedos.org/) project, among other things.
+He is a maintainer of the [FreeDOS](https://www.freedos.org/) project, among other things.
 - read two or three articles published by Jim on [OpenSource.com](https://opensource.com/users/jim-hall) site
 - add a question for Jim,  to the course wiki
   - add your own question, and enter a number 1 next to it
