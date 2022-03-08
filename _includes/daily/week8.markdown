@@ -8,8 +8,7 @@
 
 
 
-<span class="strong">### Spring Break</span>
-
+### <span class="green">Spring Break</span>
 
 
 </div>

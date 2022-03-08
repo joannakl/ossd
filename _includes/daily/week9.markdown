@@ -8,8 +8,13 @@
 
 ### Lecture 1
 
+Formation of project groups and finalizing project selection.
+
 ### Lecture 2
 
+Invited speaker: [Tom Callaway](https://www.linkedin.com/in/spotfoss/)
+
+(_exam_ postponed till next week)
 
 </div>
 
