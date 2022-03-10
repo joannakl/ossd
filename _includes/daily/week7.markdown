@@ -40,7 +40,7 @@ __Enjoy your break!__
 ... but also,
 
 - make sure that all the items listed for last week as due on March 13 are done
-- make your blog post (reflect on class discussions and your readings of _The Cathedral and the Bazaar_,
+- make your blog post due at the end of week 7, i.e. March 13, (reflect on class discussions and your readings of _The Cathedral and the Bazaar_, comment on the role of open source in global affairs, 
 comment of your own thoughts about selecting the project to contribute to, what are you hoping to achieve,
 what do you think will be most challenging things)
 
