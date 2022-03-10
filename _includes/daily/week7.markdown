@@ -18,6 +18,15 @@ _The Cathedral and the Bazaar_ discussion.
 
 ### Lecture 2
 
+Finish with remaining _lessons_ in _The Cathedral and the Bazaar_.
+
+Open Source and its role in global affairs:
+- [Where Does Open Source Fit into Russia’s War with Ukraine?](https://thenewstack.io/where-does-open-source-fit-into-russias-war-with-ukraine/)
+- Open Source Intelligence
+    - [What is open-source intelligence - and how is it helping to map the Ukraine war?](https://www.theweek.co.uk/news/technology/956029/what-is-open-source-intelligence-ukraine-war)
+    - [How Open Source Intelligence Became the World’s Window Into the Ukraine Invasion](https://www.massnews.com/how-open-source-intelligence-became-the-worlds-window-into-the-ukraine-invasion/)
+    - [Amateur open-source researchers went viral unpacking the war in Ukraine](https://restofworld.org/2022/osint-viral-ukraine/)
+    - [OSINT.org](https://osint.org/about/)
 
 
 </div>
