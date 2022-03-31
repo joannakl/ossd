@@ -22,7 +22,7 @@ Invited speaker: [Tom Callaway](https://www.linkedin.com/in/spotfoss/)
 
 ### Assignments
 
-
+- Blog post by March 27. Comment on the invited talk and your spring break (optional, and in the context of open source). 
 
 </div>
 </div>
