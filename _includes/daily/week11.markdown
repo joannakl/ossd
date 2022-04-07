@@ -21,7 +21,7 @@ https://hbr.org/2021/09/the-digital-economy-runs-on-open-source-heres-how-to-pro
 
 [The Business Value of Open Source ](https://wso2.com/whitepapers/the-business-value-of-open-source/)
 
-... more readings listed in teh slides.
+... more readings listed in the slides.
 
 [slides](slides/business_models.html)
 
