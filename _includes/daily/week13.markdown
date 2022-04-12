@@ -8,6 +8,9 @@
 
 ### Lecture 1
 
+- [How do you balance vendor and community needs? A Sakai case-study](https://www.youtube.com/watch?v=jSkDhmQ62xQ)
+
+
 ### Lecture 2
 
 
