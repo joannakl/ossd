@@ -15,6 +15,7 @@ Why do businesses use and support open source?
 - [Why should you have an Open Source Program Office?](https://www.youtube.com/watch?v=lYjVwzd7Xrs)
 - [How InnerSource can accelerate culture change](https://www.youtube.com/watch?v=p4DY2WB66RU)
 
+[slides](slides/business_use_open_source.html)
 ### Lecture 2
 
 Group work on projects. Check in with Joanna about your progress.
