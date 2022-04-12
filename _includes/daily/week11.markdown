@@ -8,7 +8,7 @@
 
 ### Lecture 1
 
-Why do businesses use and support open source?
+Business models around open source [slides](slides/business_models.html)
 
 [The Business of Open Source Software](https://productivity-tools.cioreview.com/cxoinsight/the-business-of-open-source-software-nid-18119-cid-115.html) by Danny Windham
 
@@ -23,7 +23,6 @@ https://hbr.org/2021/09/the-digital-economy-runs-on-open-source-heres-how-to-pro
 
 ... more readings listed in teh slides.
 
-[slides](slides/business_models.html)
 
 ### Lecture 2
 
