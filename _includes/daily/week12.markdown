@@ -13,6 +13,7 @@ Why do businesses use and support open source?
 - [Lessons Learned from Open Source in Business](https://www.youtube.com/watch?v=CnbDwrGZFuw)
 - [The Transformation of an Industry: Open Source in Film](https://www.youtube.com/watch?v=DDfD3uvsjtA)
 - [Why should you have an Open Source Program Office?](https://www.youtube.com/watch?v=lYjVwzd7Xrs)
+- [How InnerSource can accelerate culture change](https://www.youtube.com/watch?v=p4DY2WB66RU)
 
 ### Lecture 2
 
