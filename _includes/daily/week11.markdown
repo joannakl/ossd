@@ -20,7 +20,7 @@ Business models around open source [slides](slides/business_models.html)
 
 [The Business Value of Open Source ](https://wso2.com/whitepapers/the-business-value-of-open-source/)
 
-... more readings listed in teh slides.
+... more readings listed in the slides.
 
 
 ### Lecture 2
