@@ -54,10 +54,10 @@ __Materials__:
 ### Assignments
 
 Due immediately:
-- complete this [questionnaire](https://forms.gle/PSS5Tp8kz8GGNzS36) - if you do not have a GitHub account, create one first
+- complete this [questionnaire](https://forms.gle/MDRqQTFRX76Aq9AC8) - if you do not have a GitHub account, create one first
 
 Due by the end of Friday
-- complete the [blog/slack/wiki/...](activities/blog_slack_wiki_git.html) activity
+- complete the [blog/ed/wiki/...](activities/blog_slack_wiki_git.html) activity
 
 Due by the end of the week (i.e., Sunday)
 - make your first blog post

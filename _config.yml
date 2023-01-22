@@ -19,13 +19,13 @@ exclude:
 course_number: "CSCI-UA 480"
 course_name: "Open Source Software Development"
 course_section: "061"
-course_semester: "Spring 2022"
-course_time: "<br>Tuesdays and Thursdays 12:30pm - 1:45pm, Silv. 403<br>"
+course_semester: "Spring 2023"
+course_time: "<br>Mondays, Wednesdays 12:30pm - 1:45pm, CIWW 202<br>"
 
 
 
-instructor_office_hours: "TBD,
-(or you can schedule an appointment if these times do not work for you)"
+instructor_office_hours: "Tue 9:00-10:30 am<br/> Thu 1:00-2:30 pm<br/>
+(or you can schedule an appointment if these times do not work for you, I can usually meet right before our class)"
 instructor_office_hours_location: "Zoom, links available on Brightspace"
 
 tutor_office_hours: ""
@@ -37,20 +37,19 @@ tutor_schedule_link: ""
 
 
 current_course1_title: "CSCI 102 sec. 5"
-current_course1_link: "https://cs.nyu.edu/~joannakl/cs102_s22/"
+current_course1_link: "https://cs.nyu.edu/~joannakl/cs102/"
 current_course3_title: "CSCI 480 sec. 10 (OSSD)"
-current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s22/"
+current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s23/"
 current_course3_title: ""
 current_course3_link: ""
 
-midterm_exam_date: "TBD"
+midterm_exam_date: "March 6 or March 8 (do not plan on leaving for the spring break ahead of time)"
 final_exam_date: "TBD"
 final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 
 piazza_site: https://edstem.org
-slack_site: http://nyuossd.slack.com/
 gradescope_site: ""
-github_site: https://github.com/ossd-sp22/
+github_site: https://github.com/ossd-s23/
 
 book_opt_1: "Producing Open Source Software, "
 book_opt_1_author: "Karl Fogel, "

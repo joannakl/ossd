@@ -79,18 +79,18 @@ is a report on jobs in the open source world in 2018.
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
-<!--
+
 # Important Dates
 ---
 
-<p class="hang" markdown="1"> **Midterm Exam (these dates may change if there are any schedule changes):** <br>
+<p class="hang" markdown="1"> **Midterm Exam/Reflections (these dates may change if there are any schedule changes):** <br>
 {{ site.midterm_exam_date }}
 </p>
-<p class="hang" markdown="1"> **Final Exam:**
+<p class="hang" markdown="1"> **Final Exam/Reflections:**
 (date and time subject to change by CAS, check the dates posted by the department
 [here]( {{site.final_exams_link}} ) ) <br>
 {{ site.final_exam_date }}
 
--->
+
 <br>
 <br>

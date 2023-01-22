@@ -2,24 +2,27 @@
 layout: activity
 ---
 
-# Blog/Slack/Wiki/GitHub/Wikipedia/OpenStreetMap Activity
+# Blog/Ed/Wiki/GitHub/Wikipedia/OpenStreetMap Activity
 
 ## Introduction
 
  Professional and open source software development makes use of many different communication channels, each with its own strengths and purpose.
- We will be making use of several such communication channels (blogs, Slack, course wiki, GitHub organization) in this class and many of you will find yourselves also using others (IRC/Gitter/Docker/etc.) as they apply to your selected projects.
+ We will be making use of several such communication channels (blogs, Ed discussion forum, course wiki, GitHub organization) in this class and many of you will find yourselves also using others (IRC/Gitter/Discord/etc.) as they apply to your selected projects.
 
  You will also be contributing to projects hosted on several sites: GtiHub, Wikipedia, OpenStreetMap  and others as they apply to your selected projects.
 
- The start of the semester is a good time to get organized and setup access to some of these platforms.
+ The start of the semester is a good time to get organized and setup access to some of these platforms. It is also the time to share the information 
+ about your usernames and accounts with the rest of the class, since we will be keeping an eye on your activities. 
 
 
- ## GitHub
+## GitHub
 
  The course organization is hosted on GitHub. It is also likely that you will pick a project
  that hosts its repositories on GitHub. (It is possible that you will work on a
  	project that uses a different hosting site. In such a case, you will need to setup
- 	an account there as well.)
+ 	an account there as well, eventually.)
+    
+After you complete this task, share your GitHub username with the instructors by completing the survey form shared on the course website. 
 
  **Tasks**
 
@@ -50,6 +53,7 @@ Note 2: files are in the `gh-pages` branch  of your repository.
 
 You should be making your first blog post by the end of the first week of classes and then weekly throughout the semester.
 
+<!--
 ## Slack
 
 Slack is "A messaging app for teams". Slack helps teams working on projects to do all communications within a single app rather than spreading information across e-mail, im, texts, etc. Everything posted on Slack is indexed and searchable, making it easy to go back and find information and resources or reconstruct ideas and processes.
@@ -71,6 +75,21 @@ Slack is "A messaging app for teams". Slack helps teams working on projects to d
          -   Find the list of your mentions and reactions.
          -   Send a direct message to someone.
          -   Reply to a direct message from someone.
+
+-->
+
+
+## Ed discussion forum
+
+Some of you might be familiar with Ed from other classes. We will be using Ed for all class communications. Many of the course activities will require 
+you to post updates on Ed. The activities and project live logs will be posted there. And many more. 
+
+Everything posted on Ed is indexed and searchable, making it easy to go back and find information and resources or reconstruct ideas and processes.
+
+ **Tasks:**
+
+ 1.  Make sure that you can access this [course on Ed](https://edstem.org/us/courses/34501/discussion/). If you joined the class late the roster on Ed might take a few days to synchronize. If you still cannot access it after a day or two, talk to your instructor.  
+ 1.  Post a comment to the "Welcome to OSSD" post and introduce yourself. 
 
 ## Wikipedia
 
@@ -99,21 +118,23 @@ If you do not wish the user name to be easily associated with you, pick somethin
 
 ## Course Wiki
 
-The course [organization on GitHub](https://github.com/ossd-sp22) contains a private repository called [__wiki__](https://github.com/ossd-sp22/wiki).
-We will use this for content that needs to be jointly edited by everybody in the class. All of you should have write access to the existing pages and permission
-to create new pages.
+The course [organization on GitHub](https://github.com/ossd-s23) contains a private repository called [__wiki__](https://github.com/ossd-s23/wiki). 
+The repository will remain empty throughtout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s23/wiki/wiki). 
+We will use this for content that needs to be jointly edited by everybody in the class. All of you should have write access to the existing pages and permission to create new pages.
 
 **Tasks**
 
-1. Go to the existing page called _OSSD participants_ and edit it to add your name and some information about you (use my entry as a template). You should list:
-  - your name,
-  - link to your blog (the actual blog page, not the repository),
-  - link to your GitHub profile
-  - your Wikipedia username with a link to your contributions page
-  - your OpenStreetMap username  with a link to your contributions page
-  - the name (and a link) of your favorite open source project (challenge: pick
-  a project that nobody else listed; you can list more than one)
+Go to the existing page called _OSSD participants_ and edit it to add your name and some information about you (use my entry as a template). You should list:
+- your name,
+- link to your blog (the actual blog page, not the repository),
+- link to your GitHub profile
+- your Wikipedia username with a link to your contributions page
+- your OpenStreetMap username  with a link to your contributions page
+- the name (and a link) of your favorite open source project (challenge: pick
+  a project that nobody else listed; you can list more than one) - this should be a project that you are at least somewhat familiar with, so spend some time figuring out what you want it to be
 
-  Follow the formatting in my entry! (and use it as a guide for markdown  if you are not familiar with markdown yet).
+  Follow the formatting in my entry! (and use it as a guide for markdown if you are not familiar with markdown yet).
 
-NOTE: With our Wiki anyone can edit any page. This is great for collaborative creation of the pages, but it also comes with great responsibility. Please do not edit anyone else's personal entries. Keep in mind that the software logs all changes and the user that makes them (Have a look at the "History" tab).
+NOTE: With our Wiki anyone can edit any page. This is great for collaborative creation of the pages, but it also comes with great responsibility. Please do not edit anyone else's personal entries. Keep in mind that the software logs all changes and the user that makes them (just have a look at the "History" tab). 
+
+NOTE 2: Historically, the biggest challenge for this last step was to keep the entries organized alphabetically! Let's see how it goes this term &#128512;. 

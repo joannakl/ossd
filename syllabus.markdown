@@ -51,6 +51,7 @@ and save millions of taxpayer dollars for the American people."
 - official: passing CSCI.UA.0201 with a grade of C or better
 - interest in learning about open source culture, history, licensing and development models
 - willingness to share and collaborate
+- willingness to participate in class discussions (you cannot go through this class by sitting quietly in a corner and never voicing any opinions)
 
 
 
@@ -93,7 +94,7 @@ Grades will be determined using the following scale:
 The grade of *Incomplete* is reserved for students who, for legitimate and documented reason, miss the final exam. The grade of *Incomplete* **will not be given** to student who started falling behind in class. Those students should withdraw from the class or switch to *Pass/Fail* option.
 
 
-# Topics Covered (exact list of topics  and their order subject to change, for detailed schedule, see the [Daily](daily.html) tab of this page. )
+# Topics Covered (exact list of topics  and their order subject to change, for detailed/current schedule, see the [Daily](daily.html) tab of this page. )
 
 - Context, History, and Overview
     - Principles of open source
@@ -108,7 +109,7 @@ The grade of *Incomplete* is reserved for students who, for legitimate and docum
     - Evaluating the suitability of a project for the purpose of contributing to it
     - Studies of selected projects
 - The Business of Open Source
-    - Business models: How money is made from open source software
+    - Business models: how money is made from open source software
     - The role of open source software in the software industry
     - Careers in open source
 - Contributing to Projects
