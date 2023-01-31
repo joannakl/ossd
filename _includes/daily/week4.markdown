@@ -48,7 +48,7 @@ Due by the end of the week:
 
 Ongoing (but seems to be neglected by most):
 - Make _small_ open source contributions. Refer back to [Contributions you should be working on, slides](slides/contributions.html)
-from couple of weeks ago for the types of contributions and the workflow for the course website contributions (use the same workflow if you wish to contribute to any of the add-on projects).
+from a couple of weeks ago for the types of contributions and the workflow for the course website contributions (use the same workflow if you wish to contribute to any of the add-on projects).
 
 </div>
 </div>
