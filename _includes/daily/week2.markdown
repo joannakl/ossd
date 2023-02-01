@@ -36,7 +36,7 @@ Coraline Ada Ehmke
 
 ### Lecture 2
 
-<!--
+
 Create your first open source project (at least, in this class).
 
 Find your team members and make sure you are sitting together so that
@@ -45,22 +45,22 @@ you can work together.
 
 The instructions for the activity are at [Browser Add-on Activity](https://github.com/joannakl/ossd_materials/blob/master/activities/browser_add-on_activity.md) repository.
 
-You should keep a Slack live-log during this activity.
-- Create a channel in the course workspace on Slack.
-- Invite all group members to the channel.
-- Invite your instructor to the channel.
-- Log your progress as you complete different parts of the activity.
-(But do not duplicate the answers that you are providing elsewhere.)
-There should be regular entries in the log.
-You should no be just summarizing what you did at the very end.
+You should keep a Ed live-log during this activity.
+- Create a post on Ed in the Add-on Activity category. The title of the post should follow given
+template: Team-XXX Live Log, in which you replace the XXX with your team number. 
+- List the members of the team in the body of the post. (Note, only one person is able to 
+edit the post itself.)
+- Log your progress as you complete different parts of the activity using Comment feature on the posts. 
+(Note, that this is going to create a list of comments in reverse chronological order with the 
+most recent comments on top.) 
+- Do not duplicate the answers that you are providing elsewhere. There should be regular entries in the log.
+You should no be just summarizing what you did at the very end. Everybody in your team can make comments. 
 
-See a sample live log's [transcript](https://cs.nyu.edu/~joannakl/ossd_s20/activities/sample_live_log.html) and make sure you create a similar live log to keep track of your group's progress.
+See a sample [live log](https://edstem.org/us/courses/34501/discussion/2475877) and make sure you create a similar live log to keep track of your group's progress. (The only difference is that the sample has time-stamps on comments that are too close together to be realistic.) 
 
 
 Readings:
 - MDN [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) documentation
-
--->
 
 </div>
 
@@ -70,15 +70,14 @@ Readings:
 
 
 Due by the end of the week (i.e., Sunday)
-- make your blog post, address in it the questions in the Code of Conduct activity and reflect on your experience working
-on an add-on project 
+- make your blog post, address in it the questions in the Code of Conduct activity and reflect on your experience working on an add-on project. 
 
-<!--
+
 Due by February 12
-- with your group, continue working on the add-on project (make sure you keep your live log updated when you meet with your team to work on this project)
+- with your group, continue working on the add-on project (make sure you keep your live log updated when you meet with your team to work on this project, for each meeting note who was present)
 - make sure that the project follows all the best practices of open source
 - prepare a 5 minute presentation about your project (to be delivered in front of the class on Feb 13)
--->
+
 
 
 
