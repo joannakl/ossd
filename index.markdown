@@ -57,8 +57,8 @@ The objectives and outcomes are explained in the course syllabus. The objectives
 
 -  [Computer Science Education in the 21<sup>st</sup> Century](http://goo.gl/400cMX) by David A. Patterson, Commun. ACM 49, (3): 27-30 (March, 2006)
 
-- [The Linux Foundation's 2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/2018/06/open-source-jobs-report-2018/)
-is a report on jobs in the open source world in 2018.
+- [The Linux Foundation's 2022 Open Source Jobs Report](https://training.linuxfoundation.org/resources/2022-open-source-jobs-report/)
+is a report on jobs in the open source world in 2022.
 
 -  [The Rise of Open-Source Platform](http://www.enterprisetech.com/2015/11/12/the-rise-of-the-open-source-platform/)
 
