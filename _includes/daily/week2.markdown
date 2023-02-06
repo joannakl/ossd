@@ -18,8 +18,6 @@ Contributions you should be working on, [slides](slides/contributions.html)
 
 Finish with [Introduction to FOSS](slides/introduction.html) slides
 
-Anatomy of a FOSS project, [slides](slides/anatomy_project.html)
-
 
 Code of conduct, samples:
 - [Contributor Covenant](https://www.contributor-covenant.org/), originally written by
