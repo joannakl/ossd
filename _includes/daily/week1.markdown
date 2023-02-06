@@ -72,7 +72,7 @@ Due by the end of the week (i.e., Sunday)
     (Keep in mind that these blogs are publicly available to anybody who stumbles upon them. Make sure that the posts are appropriate.)
 
     HINT: look at your blog page after you are done editing to make sure it has the correct content and that the text is formatted the way you intended it to be.
-    Your blog page is at `https://ossd-sp22.github.io/YOUR_USER_NAME-weekly/`
+    Your blog page is at `https://ossd-s23.github.io/YOUR_USER_NAME-weekly/`
     (after you replace `YOUR_USER_NAME` with your actual username, of course).
 - install a recent version of Firefox on your computer (if not there already)
 

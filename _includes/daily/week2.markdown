@@ -29,7 +29,7 @@ Coraline Ada Ehmke
 
 
 - Follow the instructions and links in the [Code of Conduct Activity](https://github.com/joannakl/ossd_materials/blob/master/activities/code_of_conduct_activity.md). Have a discussion with your group about the questions posed in the activity.
-- On your own, address the questions from the activity in your weekly blog. Do not write the blog as a sequence of questions and answers. Instead, create couple of paragraphs that address the issues. ``
+- On your own, address the questions from the activity in your weekly blog. Do not write the blog as a sequence of questions and answers. Instead, create couple of paragraphs that address the issues. 
 
 
 ### Lecture 2
