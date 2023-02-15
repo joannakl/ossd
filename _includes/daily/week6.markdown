@@ -1,12 +1,17 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 6 (2/28)
+## Week 6 (2/27)
 </div>
 
 <div class="column_materials"  markdown="1">
 
 ### Lecture 1
+
+
+
+[Project evaluation activity](https://github.com/ossd-sp22/project-evaluation)
+
 
 Invited talk by
 <a href="https://www.linkedin.com/in/christopherasnider/">Christopher Snider</a>
