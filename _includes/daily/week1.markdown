@@ -40,7 +40,7 @@ __Materials__:
 - Blogging. If you have never written a blog or are looking for ideas on what makes good blog posts, some good advice on writing effective blog entries can be found at:
   - [Effective Academic Blogging](http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
   - [Blogs](http://writingcenter.unc.edu/handouts/blogs/) from The Writing Center at UNC-Chapel Hill.
-  - [Writing a Blog](http://www.iup.edu/writingcenter/writing-resources/workshop-videos/writing-a-blog/) workshop video from the Indiana University of Pennsylvania (IUP) Writing Center.
+  - [Writing a Blog](https://www.youtube.com/watch?v=DWeXddNcN00) workshop video from the Indiana University of Pennsylvania (IUP) Writing Center.
 
   There is no shortage of other advice, just google "How to write a blog" and find something that resonates with you and matches the goals of the course.
 
@@ -69,7 +69,7 @@ Due by the end of the week (i.e., Sunday)
         what are some advantages of open vs. closed source, what are some potential
         problems with open source, why did you decide to register for a class about open source software development?)
         - __projects__: briefly talk about  four open source projects that you regularly use or that influenced you in some way in the past (note, the projects do not have to be source code based)
-    (Keep in mind that these blogs are publicly available to anybody who stumbles upon them. Make sure that the posts are appropriate.)
+        (Keep in mind that these blogs are publicly available to anybody who stumbles upon them. Make sure that the posts are appropriate.)
 
     HINT: look at your blog page after you are done editing to make sure it has the correct content and that the text is formatted the way you intended it to be.
     Your blog page is at `https://ossd-s23.github.io/YOUR_USER_NAME-weekly/`
