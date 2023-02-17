@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 11 (4/4)
+## Week 11 (4/3)
 </div>
 
 <div class="column_materials"  markdown="1">
@@ -22,11 +22,9 @@ Business models around open source [slides](slides/business_models.html)
 
 ... more readings listed in the slides.
 
-
 ### Lecture 2
 
 Group work on projects. Check in with Joanna about your progress.
-
 
 </div>
 
@@ -36,7 +34,7 @@ Group work on projects. Check in with Joanna about your progress.
 
 Due on April 10: Make your blog post. Reflect on the class discussion and readings about
 business models surrounding open source and reasons why companies chose to use
-open source projects. __Also__ reflect on your group's progress. 
+open source projects. **Also** reflect on your group's progress.
 
 </div>
 </div>
