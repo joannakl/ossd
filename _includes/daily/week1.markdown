@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 1 (1/24), Intro to the course
+## Week 1 (1/23), Intro to the course
 </div>
 
 <div class="column_materials"  markdown="1">
