@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 12 (4/11)
+## Week 12 (4/10)
 </div>
 
 <div class="column_materials"  markdown="1">
@@ -16,10 +16,10 @@ Why do businesses use and support open source?
 - [How InnerSource can accelerate culture change](https://www.youtube.com/watch?v=p4DY2WB66RU)
 
 [slides](slides/business_use_open_source.html)
+
 ### Lecture 2
 
 Group work on projects. Check in with Joanna about your progress.
-
 
 </div>
 
@@ -33,8 +33,7 @@ under lecture 1 for this week.
 Due on April 17: Make your blog post. Reflect on the videos you watched about
 different industries' use of open source technologies, the reasons behind
 use of open source and the relationship between industry and open source projects.
-__Also__ reflect on your group's progress.
-
+**Also** reflect on your group's progress.
 
 </div>
 </div>

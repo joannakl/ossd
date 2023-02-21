@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 9 (3/21)
+## Week 9 (3/20)
 </div>
 
 <div class="column_materials"  markdown="1">
@@ -22,7 +22,7 @@ Invited speaker: [Tom Callaway](https://www.linkedin.com/in/spotfoss/)
 
 ### Assignments
 
-- Blog post by March 27. Comment on the invited talk and your spring break (optional, and in the context of open source). 
+- Blog post by March 27. Comment on the invited talk and your spring break (optional, and in the context of open source).
 
 </div>
 </div>
