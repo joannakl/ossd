@@ -32,7 +32,7 @@ Team 8, [TabColor](https://github.com/ossd-s23/TabColor)
 
 Team 9, [Me like words](https://github.com/ossd-s23/Me-like-words)
 
-Team 10, [Coloring](https://github.com/ossd-s23/Coloring)
+Team 10, [Shady Notes](https://github.com/ossd-s23/ShadyNotes)
 
 
 Project evaluation [slides](slides/project_evaluation.html)
