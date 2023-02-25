@@ -106,11 +106,11 @@ These are instructions for creating an account in Wikipedia.
 
 ## Open Street Map
 
-We will also spend some time editing the [OpenStreetMat](https://www.openstreetmap.org), so you need to create an account on that site as well.
+We will also spend some time editing the [OpenStreetMap](https://www.openstreetmap.org), so you need to create an account on that site as well.
 
 **Tasks**
 
-1. Visit the page [OpenStreetMat](https://www.openstreetmap.org).
+1. Visit the page [OpenStreetMap](https://www.openstreetmap.org).
 2. In the upper right corner click the Sign Up button.
 3. In the page that opens, complete the information required by OpenStreetMap.
 If you do not wish the user name to be easily associated with you, pick something that is not related to your name or your netID.
