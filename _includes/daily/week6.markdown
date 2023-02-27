@@ -27,7 +27,7 @@ Start thinking about how to pick a project we want to work on.
 
 **Due by the end of Thursday (March 2)**
 
-- Clone the repository called [taking stock](https://github.com/ossd-sp22/taking_stock) from the class organization. Use it
+- Clone the repository called [taking stock](https://github.com/ossd-s23/taking_stock) from the class organization. Use it
 to organize your goals and motivations for the open source contributions, your skills and resources that you are bringing
 to the table, and your interests that may play a role in your choice of a project and the team that you end you end up working with. This is for your private account and you do not need to submit anything. But you should treat it seriously.
 
