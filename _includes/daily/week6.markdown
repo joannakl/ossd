@@ -42,5 +42,11 @@ to the table, and your interests that may play a role in your choice of a projec
 - Complete the [project preference](https://forms.gle/yDW8b9guMjc8Ho3u8) form. The data you provide there will be used to form the project groups for the remainder of the semester. This is completely confidential and will not be shared with anybody other than the instructor.
 
 
+
+**Due by the end of Sunday (March 5)**
+
+- Make your blog posts: what are your thoughts about different projects that you have looked at so far? what are you most excited about regarding working on an opens source project? what do you think will be the biggest challenges? how do you plan to overcome them? 
+
+
 </div>
 </div>
