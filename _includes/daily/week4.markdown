@@ -35,7 +35,7 @@ Team 9, [Me like words](https://github.com/ossd-s23/Me-like-words)
 Team 10, [Shady Notes](https://github.com/ossd-s23/ShadyNotes)
 
 
-Project evaluation [slides](slides/project_evaluation.html)
+[Project evaluation](https://github.com/ossd-s23/project-evaluation) 
 
 
 </div>
