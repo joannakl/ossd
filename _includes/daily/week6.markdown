@@ -17,6 +17,11 @@ Start thinking about how to pick a project we want to work on.
 
 ### Lecture 2
 
+Why do YOU want to contribute to certain projects? Reasons for
+selecting a project to contribute to. 
+
+HFOSS and social good projects.
+[slides](slides/HFOSS.html)
 
 
 </div>
