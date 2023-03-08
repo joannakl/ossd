@@ -1,20 +1,18 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 9 (3/21)
+## Week 9 (3/20)
 </div>
 
 <div class="column_materials"  markdown="1">
 
 ### Lecture 1
 
-Formation of project groups and finalizing project selection.
+Project group work. 
 
 ### Lecture 2
 
-Invited speaker: [Tom Callaway](https://www.linkedin.com/in/spotfoss/)
-
-(_exam_ postponed till next week)
+Invited speaker: [Jim Hall](https://hallmentum.com/about/jimhall/)
 
 </div>
 
@@ -22,7 +20,7 @@ Invited speaker: [Tom Callaway](https://www.linkedin.com/in/spotfoss/)
 
 ### Assignments
 
-- Blog post by March 27. Comment on the invited talk and your spring break (optional, and in the context of open source). 
+-  __readings__ in preparation for discussions next week: [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) by Eric S. Raymond (you should be reading the essay titled [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/) in this book, the second link is a direct link to the XHTML format of that essay, there are other formats available at the book site at the first link)
 
 </div>
 </div>
