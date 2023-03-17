@@ -13,7 +13,7 @@ Gradescope and you need to submit your responses on Gradescope.
 
 ### Lecture 2
 
-
+Project group work.
 
 </div>
 
