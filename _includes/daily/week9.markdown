@@ -6,13 +6,18 @@
 
 <div class="column_materials"  markdown="1">
 
+<span class="strong">CHANGE IN THE ORDER</span>
+
 ### Lecture 1
 
-Project group work. 
+Invited speaker: [Jim Hall](https://hallmentum.com/about/jimhall/)
+
+<span class="strong">This session will be on Zoom. Link is available on 
+Brightspace.</span>
 
 ### Lecture 2
 
-Invited speaker: [Jim Hall](https://hallmentum.com/about/jimhall/)
+Project group work. 
 
 </div>
 
