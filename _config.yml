@@ -50,6 +50,7 @@ final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 piazza_site: https://edstem.org
 gradescope_site: ""
 github_site: https://github.com/ossd-s23/
+website_github_site: https://github.com/joannakl/ossd
 
 book_opt_1: "Producing Open Source Software, "
 book_opt_1_author: "Karl Fogel, "
@@ -80,7 +81,7 @@ book_opt_4_author: "William Shotts, "
 book_opt_4_edition: ""
 book_opt_4_link: "http://linuxcommand.org/tlcl.php"
 book_opt_4_note: ""
-book_opt_4_image: ""
+book_opt_4_image: "http://linuxcommand.org/images/lcl2_front_new.png"
 
 
 book_opt_5: "ProGit, "
