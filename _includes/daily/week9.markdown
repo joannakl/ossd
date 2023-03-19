@@ -10,7 +10,7 @@
 
 ### Lecture 1
 
-Invited speaker: [Jim Hall](https://hallmentum.com/about/jimhall/)
+Invited speaker: [Jim Hall](https://personal.freedos.org/)
 
 <span class="strong">This session will be on Zoom. Link is available on 
 Brightspace.</span>
