@@ -40,7 +40,7 @@ you started with)
 
 Update your blog for this week:
 
--reflect on our discussion about the Cathedral and the Bazaar; which one is your favorite _lesson_?
+- reflect on our discussion about the Cathedral and the Bazaar; which one is your favorite _lesson_?
 - reflect on the stand up reports for the other project groups; how is your group work going? 
 
 
