@@ -32,6 +32,17 @@ you started with)
 ### Assignments
 
 
+[Christopher Snider](https://www.linkedin.com/in/christopherasnider/) will be our next invited speaker.
+
+  - familiarize yourself with the following materials (videos and articles): 
+  <a href="https://www.redhat.com/en/open-source-stories/opening-the-loop">Opening the Loop</a>, <a href="https://www.redhat.com/en/blog/how-open-source-making-diabetes-more-manageable">How open source is making diabetes more manageable</a>, <a href="https://opensource.com/article/22/2/transparency-open-source-healthcare-software">How radical transparency is transforming open source healthcare software</a>
+  - (by the end of Sunday) add a question for Christopher,  to the course wiki (add your own question, and enter a number 1 next to it; read through existing questions, and up-vote the questions you like (replace the number next to them with a number __one higher__; go back to the page towards the end of the week to cast your vote on additional questions if you like them)
+
+Update your blog for this week:
+
+-reflect on our discussion about the Cathedral and the Bazaar; which one is your favorite _lesson_?
+- reflect on the stand up reports for the other project groups; how is your group work going? 
+
 
 </div>
 </div>
