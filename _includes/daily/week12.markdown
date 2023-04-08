@@ -8,17 +8,11 @@
 
 ### Lecture 1
 
-Why do businesses use and support open source?
+Project group work.
 
-- [Lessons Learned from Open Source in Business](https://www.youtube.com/watch?v=CnbDwrGZFuw)
-- [The Transformation of an Industry: Open Source in Film](https://www.youtube.com/watch?v=DDfD3uvsjtA)
-- [Why should you have an Open Source Program Office?](https://www.youtube.com/watch?v=lYjVwzd7Xrs)
-- [How InnerSource can accelerate culture change](https://www.youtube.com/watch?v=p4DY2WB66RU)
-
-[slides](slides/business_use_open_source.html)
 ### Lecture 2
 
-Group work on projects. Check in with Joanna about your progress.
+Invited talk with [Christopher Snider](https://www.linkedin.com/in/christopherasnider/).
 
 
 </div>
@@ -27,13 +21,13 @@ Group work on projects. Check in with Joanna about your progress.
 
 ### Assignments
 
-Due before you make your blog post: watch the videos (or finish watching the ones we started in class) listed
-under lecture 1 for this week.
+Make your blog post:
+- reflect on Chrispher Snider presentation and the importance of _open source_ in 
+healthcare industry in general (finish watching videos linked to from last week assignments) 
+- reflect on the challenges your group project is facing and 
+how you plan to overcome them 
 
-Due on April 17: Make your blog post. Reflect on the videos you watched about
-different industries' use of open source technologies, the reasons behind
-use of open source and the relationship between industry and open source projects.
-__Also__ reflect on your group's progress.
+
 
 
 </div>
