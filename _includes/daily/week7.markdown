@@ -44,7 +44,7 @@ __Enjoy your break!__
 talk about your hopes and worries regarding the group work 
 
 **Due by the end of Sunday (March 19)** (although, you can do it this week if you 
-do not work to do any work during the break)
+do not want to do any work during the break)
 - read the article [What is DOS?](https://www.codecademy.com/resources/blog/what-is-dos/)  
 - watch [History of Gnu, Linux, Free and Open Source Software (Revolution OS)](https://youtu.be/vjMZssWMweA) 
 
