@@ -35,7 +35,7 @@ Open source and ...
 - find articles or examples of such uses
 - add these resources to our course wiki on the page titled _Open Source and ..._  (if someone else found similar use of open source, you can add your resources and 
 examples under the same heading) 
-- be prepared to talk briefly about the are that you found 
+- be prepared to talk briefly about the areas and examples that you found 
 
 Make sure all of your individual contributions are listed on your blog page. (Do not list your group project contributions there. These will be evaluated separately as part of your group project.) 
 
