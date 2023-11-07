@@ -11,7 +11,9 @@
 Intro to the class/course: why are we here? what is open source? what will you learn?
 course organization.
 
+
 ### Lecture 2
+
 
 
 <br>
