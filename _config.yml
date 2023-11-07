@@ -2,7 +2,7 @@
 title: CSCI-UA 480 (Open Source Software Development)
 description: "Course website for CSCI-UA 480 (Open Source Software Development) course."
 
-baseurl: "/ossd_s23/" # the subpath of your site, e.g. /blog
+baseurl: "/ossd_s24/" # the subpath of your site, e.g. /blog
 url: "https://joannakl.github.io/ossd" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
@@ -19,12 +19,12 @@ exclude:
 course_number: "CSCI-UA 480"
 course_name: "Open Source Software Development"
 course_section: "061"
-course_semester: "Spring 2023"
-course_time: "<br>Mondays, Wednesdays 12:30pm - 1:45pm, CIWW 202<br>"
+course_semester: "Spring 2024"
+course_time: "<br>Mondays, Wednesdays 12:30pm - 1:45pm, 194M 305<br>"
 
 
 
-instructor_office_hours: "Tue 9:00-10:30 am<br/> Thu 1:00-2:30 pm<br/>
+instructor_office_hours: "TBD<br/>
 (or you can schedule an appointment if these times do not work for you, I can usually meet right before our class)"
 instructor_office_hours_location: "Zoom, links available on Brightspace"
 
@@ -43,13 +43,13 @@ current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s23/"
 current_course3_title: ""
 current_course3_link: ""
 
-midterm_exam_date: "March 6 or March 8 (do not plan on leaving for the spring break ahead of time)"
+midterm_exam_date: "TBD (do not plan on leaving for the spring break ahead of time)"
 final_exam_date: "TBD"
 final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 
 piazza_site: https://edstem.org
 gradescope_site: ""
-github_site: https://github.com/ossd-s23/
+github_site: https://github.com/ossd-s24/
 website_github_site: https://github.com/joannakl/ossd
 
 book_opt_1: "Producing Open Source Software, "
