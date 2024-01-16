@@ -8,18 +8,21 @@ layout: grades
 
 The success of this class is in a large part up to you as its primary participants. My hope is that you will all engage in the material, prepare carefully and come to our meetings excited to participate in discussions and activities with your peers. If that happens then our meetings will be lively and interesting and we will be able to focus largely on the aspects of the material that are most interesting to you as a group. Plus, it's good practice - some employers are now using [Group Discussions as a screening technique before or during interviews](https://www.reed.co.uk/career-advice/group-interview-tips-dos-and-donts/)!
 
-PAE is assessed for each student during some of the class periods. Preparation includes completion of any reading, tutorials, exercises or activities assigned (based on the ability to participate in class discussion, answering questions, posing questions and posting comments before class). Attendance is your presence in class during our scheduled meetings. Engagement combines participation in discussion and activities with a demonstrated investment both in the material and the betterment of the class for everyone.
+PAE is assessed for each student during some of the class periods. Preparation includes completion of any reading, tutorials, exercises or activities assigned (based posing questions and comments before class). Attendance is your presence in class during our scheduled meetings. Engagement combines participation in in-class discussion and activities with a demonstrated investment both in the material and the betterment of the class for everyone.
 
-PAE scores will be assigned according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓(85%). Something positively notable is required to move up to a ✓+ (100%) or ✓++ (110%),  and negatively notable down to 0 or ✓- (60%).  
+PAE scores will be assigned according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓(85%). Something positively notable is required to move up to a ✓+ (100%),  and negatively notable down to 0 or ✓- (60%).  
 
 
-|Score | Preparation |  Attendance| Engagement |
+If you are not present in the class, the attendance and engagement parts of the score are automatically 0. 
+
+|Score | Preparation (40%)|  Attendance (30%) | Engagement (30%)|
 |:---:|:---|:---|:---|
-|0|Failed to demonstrate any familiarity with the assigned materials. | Did not attend the class or was not present for significant portions of class period. | Consistently inactive, distracted , disconnected and showing none or little interest in class discussion and activities.|
-|✓-| Demonstrated only minimal familiarity and interest in the assigned materials.  | Attended class but may have been late and/or left the room with unusual frequency or duration |Frequent periods of distraction, inattention or disinterest.   |
+|0|Failed to post any comments or questions. | Did not attend the class or was not present for significant portions of class period. | Did not particiapate in class discussion at all.|
+|✓-| Demonstrated only minimal familiarity and interest in the assigned materials.  | Attended class but may have been late and/or left the room with unusual frequency or duration |Minimally participated in class discussions.   |
 |✓ | Demonstrated __expected__ familiarity with assigned materials. | Attended class, was on time and present in the class throughout period.|Engaged in discussion and activities.  |
-|✓+| Demonstrated __strong__ familiarity with the assigned materials. Took part in the class discussion by sharing the insights and personal reflections.| Unused. | Engaged in discussions and activities in an exceptional way that enhanced it for everyone. |
-|✓++|Demonstrated __exceptional__ familiarity with the assigned materials. Took initiative in finding and sharing related content. Approached the materials in unique and creative ways. | Unused. | Unused. |
+|✓+| Demonstrated __strong__ familiarity with the assigned materials.  Took initiative in finding and sharing related content. Approached the materials in unique and creative ways. | Unused. | Engaged in discussions and activities in an exceptional way that enhanced it for everyone. |
+
+
 
 
 ## Blogs / Reflective Writing: 20%
@@ -37,7 +40,9 @@ Posts will typically be 200-600 words. You are given wide latitude for the conte
 
 The blog posts will be assessed throughout the semester using the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓(85%). Something positively notable is required to move up to a ✓+ (100%) or ✓++ (110%),  and negatively notable down to 0 or ✓- (60%).  
 
-|Score | Timeliness |  Mechanics and Formatting| Writing and Content |
+WARNING: if you do not configure your blog site properly at the start of the semester, we will not be able to read your blog posts and your scores in this category will be zero. 
+
+|Score | Timeliness (30%)|  Mechanics and Formatting (20%) | Writing and Content (50%)|
 |:---:|:---|:---|:---|
 |0| Post missing or late more than three days. | Post is of trivial length. | Writing is largely incoherent or content shows no connection with the readings/discussions or prompts for the given week. |
 |✓-| Post made late, but within three days of the due date.  | Writing is very brief, formatting is lacking making the post hard to read.  | Writing is only loosely  connected to the readings/discussions and prompts for the given week. Post enumerates answers  and ideas rather than containing organized narrative. |
@@ -59,7 +64,7 @@ Broken Link [Writing a Blog](http://www.iup.edu/writingcenter/writing-resources/
 
 Early in the semester there will be a number of in-class activities, tutorials and homework assignments designed to introduce you to some of the tools and techniques commonly used in FOSS projects (and in professional software development as well). Typically these assignments will require you to complete some tutorials and activities while keeping a Live-Log (see below) of your work.
 
-Tutorials and homework exercises will be assessed largely on completion and effort as documented by the associated live-logs according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓(85%). Something positively notable is required to move up to a ✓+ (100%) or ✓++ (110%),  and negatively notable down to 0 or ✓- (60%).  
+Tutorials and homework exercises will be assessed largely on completion and effort as documented by the associated live-logs according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓(85%). Something positively notable is required to move up to a ✓+ (100%),  and negatively notable down to 0 or ✓- (60%).  
 
 |Score | Activity |
 |:---:|:---|
@@ -67,7 +72,7 @@ Tutorials and homework exercises will be assessed largely on completion and effo
 |✓-| Live-log entries are vague, infrequent, or fail to sufficiently demonstrate an appropriate level of thoughtful engagement with the assignment.  |
 |✓ |  Live-log entries are sufficiently detailed, regular, clearly demonstrating the sufficient effort was made to thoughtfully engage with and understand the assignment. |
 |✓+| Live-logs meet criteria for ✓ __and__ demonstrate that students expanded on the assigned work in interesting, productive and/or creative ways. |
-|✓++| Unused. |
+
 
 
 
@@ -93,7 +98,7 @@ The individual contributions should be documented on the _Contribution_ page of 
 |Score | Frequency / Regularity | Content |
 |:---:|:---|:---|
 |0| Very few contributions  or all contributions made in one burst. | All contributions are trivial.  |
-|✓- | Few contributions but made regularly throughout the evaluated period OR satisfactory number of contributions but made in bursts.   | Many contributions are trivial with a few providing meaningful benefit to the project. |
+|✓- | Few contributions but made regularly throughout the evaluated period OR satisfactory number of contributions but made in bursts.   | Many contributions are trivial with a few providing meaningful benefit to the project OR the author does not followup on their contribution. |
 |✓ |  Satisfactory number of contributions that are made regularly throughout the evaluated period.  | Contributions clearly benefit the project and communities around that project. |
 |✓+|  Contributions meet criteria for ✓  and there is unusually large number of significant contributions.  | Contributions meet criteria for ✓ and some of the contributions are significant in terms of challenge that they posed during the issue resolution or benefit that they provide to the community. |
 |✓++| Unused. | Contributions meet criteria for ✓+  and have been received with exceptional enthusiasm by the community of the project. |
@@ -125,7 +130,6 @@ Project/community selection will be assessed based on the completion and quality
 |✓- | Some project evaluation entries missing  and/or reflect insufficient effort in understanding project and its community. | Presentation was not engaging, unclear, incomplete, excessively long or short, did not balance presentation among team members.  |
 |✓ |  All project evaluation entries are clear, complete and reflect the expected level of understanding of the project and its community.| Presentation was engaging, clearly conveyed the project information, used media effectively, allowed equal participation by team members and was appropriate length. |
 |✓+|  Project evaluation meets criteria for ✓  and demonstrates exceptional understanding of the reviewed project.  | Presentation meets  criteria for ✓ and was exceptional in some regard. |
-|✓++| Unused. | Unused. |
 
 ### Weekly five-fifteens
 
