@@ -116,19 +116,10 @@ You can access all course related materials on the [course website](https://cs.n
 In addition, you may find your grades on [Brightspace](brightspace.nyu.edu/) page for this course. 
 
 
-## Textbook(s)
+## Book(s)
 
 
-|<img src="{{site.book_opt_7_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_7 }}]( {{ site.book_opt_7_link }})** {{ site.book_opt_7_edition }}<br> {{ site.book_opt_7_author }} <br> {{ site.book_opt_7_note }}  |
-|<img src="{{site.book_opt_1_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_1 }}]( {{ site.book_opt_1_link }})** {{ site.book_opt_1_edition }}<br> {{ site.book_opt_1_author }} <br> {{ site.book_opt_1_note }}  |
-|<img src="{{site.book_opt_5_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_5 }}]( {{ site.book_opt_5_link }})** {{ site.book_opt_5_edition }}<br> {{ site.book_opt_5_author }} <br> {{ site.book_opt_5_note }}  |
-|<img src="{{site.book_opt_6_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_6 }}]( {{ site.book_opt_6_link }})** {{ site.book_opt_6_edition }}<br> {{ site.book_opt_6_author }} <br> {{ site.book_opt_6_note }}  |
-|<img src="{{site.book_opt_2_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_2 }}]( {{ site.book_opt_2_link }})** {{ site.book_opt_2_edition }}<br> {{ site.book_opt_2_author }} <br> {{ site.book_opt_2_note }}  |
-|<img src="{{site.book_opt_3_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_3 }}]( {{ site.book_opt_3_link }})** {{ site.book_opt_3_edition }}<br> {{ site.book_opt_3_author }} <br> {{ site.book_opt_3_note }}  |
-|<img src="{{site.book_opt_4_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_4 }}]( {{ site.book_opt_4_link }})** {{ site.book_opt_4_edition }}<br> {{ site.book_opt_4_author }} <br> {{ site.book_opt_4_note }}  |
-
-
-
+|<img src="{{site.book_opt_8_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_8 }}]( {{ site.book_opt_8_link }})** {{ site.book_opt_8_edition }}<br> {{ site.book_opt_8_author }} <br> {{ site.book_opt_8_note }}  |
 |<img src="{{site.book_opt_7_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_7 }}]( {{ site.book_opt_7_link }})** {{ site.book_opt_7_edition }}<br> {{ site.book_opt_7_author }} <br> {{ site.book_opt_7_note }}  |
 |<img src="{{site.book_opt_1_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_1 }}]( {{ site.book_opt_1_link }})** {{ site.book_opt_1_edition }}<br> {{ site.book_opt_1_author }} <br> {{ site.book_opt_1_note }}  |
 |<img src="{{site.book_opt_5_image}}" name="Book" border="0px" width="100px">| **[{{ site.book_opt_5 }}]( {{ site.book_opt_5_link }})** {{ site.book_opt_5_edition }}<br> {{ site.book_opt_5_author }} <br> {{ site.book_opt_5_note }}  |
