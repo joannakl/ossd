@@ -11,6 +11,7 @@
 Intro to the class/course: why are we here? what is open source? what will you learn?
 course organization.
 
+[slides](slides/course_logistics.html)
 
 ### Lecture 2
 
@@ -47,6 +48,10 @@ __Materials__:
 <div class="column_assign"  markdown="1">
 
 ### Assignments
+
+Due immediately:
+- complete this [questionnaire](https://forms.gle/TypjVSsMyB2mLEWe8) - if you do not have a GitHub account, create one first (your username does not need to be in anyway identifying you, your association with NYU or this course)
+
 
 
 
