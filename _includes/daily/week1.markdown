@@ -52,6 +52,13 @@ __Materials__:
 Due immediately:
 - complete this [questionnaire](https://forms.gle/TypjVSsMyB2mLEWe8) - if you do not have a GitHub account, create one first (your username does not need to be in anyway identifying you, your association with NYU or this course)
 
+Due by the end of the week (Sunday night): 
+- read the first two chapters of the "Forge Your Future with Open Source" by VM Brasseur:
+    - The Foundations and Philosophies of Free and Open Source 
+    - What Free and Open Source Can Do for You
+
+    and [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html). 
+- complete the short quiz based on the above reading on Ed Lessons 
 
 
 
