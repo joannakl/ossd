@@ -47,9 +47,7 @@ Setup your blog site (this can only be done AFTER you shared your GitHub usernam
 - edit the `about.md` file to include some information about yourself
  (make sure that you are using markdown to format this page)
 
-Note 1: You should clone the repository to your local machine, make changes there and then push the content back to the repository on GitHub. Do not edit it directly on GitHub (if you are inclined to do this, then you do need practice on using `git` and this is a good place to start!).
-
-Note 2: files are in the `gh-pages` branch  of your repository.
+Note: You should clone the repository to your local machine, make changes there and then push the content back to the repository on GitHub. Do not edit it directly on GitHub (if you are inclined to do this, then you do need practice on using `git` and this is a good place to start!).
 
 You should be making your first blog post by the end of the first week of classes and then weekly throughout the semester.
 
@@ -88,8 +86,8 @@ Everything posted on Ed is indexed and searchable, making it easy to go back and
 
  **Tasks:**
 
- 1.  Make sure that you can access this [course on Ed](https://edstem.org/us/courses/34501/discussion/). If you joined the class late the roster on Ed might take a few days to synchronize. If you still cannot access it after a day or two, talk to your instructor.  
- 1.  Post a comment to the "Welcome to OSSD" post and introduce yourself. 
+ 1.  Make sure that you can access this course on Ed. 
+
 
 ## Wikipedia
 
@@ -118,8 +116,8 @@ If you do not wish the user name to be easily associated with you, pick somethin
 
 ## Course Wiki
 
-The course [organization on GitHub](https://github.com/ossd-s23) contains a private repository called [__wiki__](https://github.com/ossd-s23/wiki). 
-The repository will remain empty throughtout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s23/wiki/wiki). 
+The course [organization on GitHub](https://github.com/ossd-s24) contains a private repository called [__wiki__](https://github.com/ossd-s23/wiki). 
+The repository will remain empty throughtout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s24/wiki/wiki). 
 We will use this for content that needs to be jointly edited by everybody in the class. All of you should have write access to the existing pages and permission to create new pages.
 
 **Tasks**
@@ -129,7 +127,7 @@ Go to the existing page called _OSSD participants_ and edit it to add your name 
 - link to your blog (the actual blog page, not the repository),
 - link to your GitHub profile
 - your Wikipedia username with a link to your contributions page
-- your OpenStreetMap username  with a link to your contributions page
+- your OpenStreetMap username  with a link to your contributions page 
 - the name (and a link) of your favorite open source project (challenge: pick
   a project that nobody else listed; you can list more than one) - this should be a project that you are at least somewhat familiar with, so spend some time figuring out what you want it to be
 
@@ -137,4 +135,4 @@ Go to the existing page called _OSSD participants_ and edit it to add your name 
 
 NOTE: With our Wiki anyone can edit any page. This is great for collaborative creation of the pages, but it also comes with great responsibility. Please do not edit anyone else's personal entries. Keep in mind that the software logs all changes and the user that makes them (just have a look at the "History" tab). 
 
-NOTE 2: Historically, the biggest challenge for this last step was to keep the entries organized alphabetically! Let's see how it goes this term &#128512;. 
+NOTE 2: Historically, the biggest challenge for this last step was to keep the entries organized alphabetically by last name! Let's see how it goes this term &#128512;. 
