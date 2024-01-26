@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Syllabus, CSCI-UA 102, Klukowska
+title:  Syllabus, CSCI-UA 480, Klukowska
 ---
 
 
