@@ -1,14 +1,11 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 2 (1/30)
+## Week 2
 </div>
 
 
 <div class="column_materials"  markdown="1">
-
-
-<span class="strong">__February 5 - last day to drop a class without W.__ </span>
 
 ### Lecture 1
 
@@ -68,17 +65,21 @@ Readings:
 
 
 Due by the end of the week (i.e., Sunday)
-- make your blog post, address in it the questions in the Code of Conduct activity and reflect on your experience working on an add-on project. 
+- make your blog post, address in it the questions in the Code of Conduct activity, 
+what are your own thoughts on the importance of Code of Conduct for a project? would you be 
+willing to work on a project that does not have a Code of Conduct? do you think there is
+a realistic way of enforcing rules listed in the Code of Conduct for a given project?
+<!-- and reflect on your experience working on an add-on project. --> 
 - read the materials below and complete the short quiz based on the readings on Ed Lessons (Anatomy of a FOSS project)
     - first four sections of [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) guide
     - chapter three, *Prepare to Contribute*, of "Forge Your Future with Open Source" by VM Brasseur 
 
-
+<!--
 Due by February 12
 - with your group, continue working on the add-on project (make sure you keep your live log updated when you meet with your team to work on this project, for each meeting note who was present)
 - make sure that the project follows all the best practices of open source
 - prepare a 5 minute presentation about your project (to be delivered in front of the class on Feb 13)
-
+-->
 
 
 
