@@ -21,14 +21,16 @@ Coraline Ada Ehmke
 - [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/)
 - Google's Go [Code of Conduct](https://golang.org/conduct)
 
+
+
+### Lecture 2
+
+
 (Group) Activity about code of conduct documents.
 
 
 - Follow the instructions and links in the [Code of Conduct Activity](https://github.com/joannakl/ossd_materials/blob/master/activities/code_of_conduct_activity.md). Have a discussion with your group about the questions posed in the activity.
 - On your own, address the questions from the activity in your weekly blog. Do not write the blog as a sequence of questions and answers. Instead, create couple of paragraphs that address the issues. 
-
-
-### Lecture 2
 
 <!--
 Create your first open source project (at least, in this class).
