@@ -116,7 +116,7 @@ If you do not wish the user name to be easily associated with you, pick somethin
 
 ## Course Wiki
 
-The course [organization on GitHub](https://github.com/ossd-s24) contains a private repository called [__wiki__](https://github.com/ossd-s23/wiki). 
+The course [organization on GitHub](https://github.com/ossd-s24) contains a private repository called wiki. 
 The repository will remain empty throughtout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s24/wiki/wiki). 
 We will use this for content that needs to be jointly edited by everybody in the class. All of you should have write access to the existing pages and permission to create new pages.
 
