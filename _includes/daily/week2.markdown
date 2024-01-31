@@ -31,6 +31,12 @@ Coraline Ada Ehmke
 - The instructions for this activity are in the course wiki on page titled _Code of Conduct Activity_. 
 Complete it in groups of 3 students. 
 
+- [A Beginner’s Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39)
+by Shubheksha Jalan 
+
+- [Collaborative Editing](https://github.com/topics/collaborative-editing) - possible alternatives 
+to Google Docs
+
 <!--
 
 - Follow the instructions and links in the [Code of Conduct Activity](https://github.com/joannakl/ossd_materials/blob/master/activities/code_of_conduct_activity.md). Have a discussion with your group about the questions posed in the activity.
