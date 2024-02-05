@@ -15,7 +15,7 @@ Find your team members and make sure you are sitting together so that
 you can work together.
 
 
-The instructions for the activity are at [Browser Add-on Activity](activities/browser_add-on_activity.md) repository.
+The instructions for the activity are at [Browser Add-on Activity](activities/browser_add-on_activity.html) 
 
 
 Readings:
@@ -28,7 +28,7 @@ Readings:
 Introduction to Git activity [slides](slides/git_intro_activity.html)
 
 Readings:
-- the first two chapters in ProGit book 
+- the first two chapters in ProGit book  (Getting Started, Git Basics)
 
 
 </div>
