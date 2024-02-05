@@ -12,18 +12,16 @@ Note2: students do not need to be familiar with Javascript in order to complete 
 
 Prerequisites:
 - Firefox should be installed on your system
-- you should have Git installed on your system if it is not there already, <br>
-  <details markdown="1">
-  <summary markdown="1">see how </summary>
-  <p markdown="1">
+- you should have Git installed on your system if it is not there already. <br/>
+  If you do not, see the info below: 
 
   For download and install instructions and for a list of available graphical interfaces
   see the [git-scm.com](https://git-scm.com/downloads) site.
 
   </p>
   </details>
-- you should have Git configured on your system to _know who you are_,
-  <details><summary>see how </summary>
+- you should have Git configured on your system to _know who you are_. <br/>
+  If you do not, see how below: 
   <p>
   Run the following commands from the command line:<br>
 
