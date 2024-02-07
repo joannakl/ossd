@@ -37,19 +37,22 @@ Readings:
 
 ### Assignments
 
-Due by the end of the week:
+Due by the end of the week (i.e. by the end of Sunday):
 - One person from each team working on Firefox add-ons should make a post in the
   browser-extension-presentations page on the class wiki.
   The post should follow this format: <br/>
   `Team TeamNumber, [Extension Name](link to the GitHub repo) ` <br/>
   (Where the `Team TeamNumber` is the team number you were given during the in-class session.)
+  If you are going to use any slides for the presentation on 2/14 then link them here as well. 
 - Make your blog post for the week. Comment on the `git` exercises we did in class. Comment on 
 the work with your team and progress you have made towards your first browser extension (what 
 are some problems the group is facing, what good things happened, how do you fit 
 into the collaboration, what are your biggest contributions) 
+- Read the materials on version control linked to under lecture 2 for this week. Complete
+the quiz on Ed Lessons after the reading. 
 
 Due by February 13
-- with your group, continue working on the add-on project (make sure you keep your live log updated when you meet with your team to work on this project - the entire progress of your work on the extension should be documented)
+- with your group, continue working on the add-on project (__make sure you keep your live log updated when you meet with your team to work on this project - the entire progress of your work on the extension should be documented__)
 - make sure that the project follows all the best practices of open source
 - prepare a 5 minute presentation about your project (to be delivered in front of the class on Feb 14) - make sure that it is a group presentation (it may be a good idea to do a dry run or two before the actual presentation)
 
