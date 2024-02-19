@@ -264,7 +264,6 @@ of work into.
 - Team and Individual Reports
 
 
-See the [Tentative Weekly Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vQRPJ6qWpXkxBGd2Y16yRF7iQBc9xYjkj7Y6XKbEITUsndBUsvob4upOzoEcOdtqxKWGjVC60zQf85i/pubhtml?gid=114127910&single=true)  for approximate times when topics will be covered. All dates there are **tentative**, but should be a good indicator or the course timing. 
 
 
 
