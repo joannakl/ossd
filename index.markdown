@@ -18,7 +18,7 @@ title:  Syllabus, CSCI-UA 480, Klukowska
 * 4 credits
 * Lectures:  {{ site.course_time }} (attendance is mandatory)
 * Class meetings at: {{ site.course_location }}
-* [Course website: https://cs.nyu.edu/~joannakl/ossd/](https://cs.nyu.edu/~joannakl/ossd/)
+* [Course website: https://cs.nyu.edu/~joannakl/ossd_s24/](https://cs.nyu.edu/~joannakl/ossd_s24/)
 * [Brightspace: https://brightspace.nyu.edu/](https://brightspace.nyu.edu/)
 * [Ed discussions: https://edstem.org/us/dashboard](https://edstem.org/us/dashboard) (accessible through Brightspace as well) 
 * Prerequisites:     
