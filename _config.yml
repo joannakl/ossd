@@ -66,7 +66,7 @@ book_opt_2_author: "Amy Brown and Greg Wilson (editors), "
 book_opt_2_edition: ""
 book_opt_2_link: "http://www.aosabook.org/en/index.html"
 book_opt_2_note: ""
-book_opt_2_image: "http://www.aosabook.org/images/cover1.jpg"
+book_opt_2_image: "https://aosabook.org/static/cover1.jpg"
 
 
 book_opt_3: "Practical Open Source Software Exploration, "
