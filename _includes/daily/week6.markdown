@@ -18,7 +18,8 @@ Start thinking about how to pick a project we want to work on.
 
 ### Lecture 2
 
-
+Overview of different types of contributions and working approach of
+the past projects. 
 
 </div>
 
