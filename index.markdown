@@ -111,9 +111,9 @@ The grade of *Incomplete* is reserved for students who, for legitimate and docum
 
 ## Course Website and Brightspace
 
-You can access all course related materials on the [course website](https://cs.nyu.edu/~joannakl/ossd/). 
+You can access all course related materials on the [course website](https://cs.nyu.edu/~joannakl/ossd_s24/). 
 
-In addition, you may find your grades on [Brightspace](brightspace.nyu.edu/) page for this course. 
+In addition, you may find your grades on [Brightspace](https://brightspace.nyu.edu/) page for this course. 
 
 
 ## Book(s)
