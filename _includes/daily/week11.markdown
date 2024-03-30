@@ -14,6 +14,7 @@ Open source and business/enterprise/industry.
 Slides: [Open Source Business Models](slides/business_models.html), [Business' Use of Open Source](slides/business_use_open_source.html) 
 
 
+- [Lessons Learned from Open Source in Business](https://www.youtube.com/watch?v=CnbDwrGZFuw)
 
 ### Lecture 2
 
