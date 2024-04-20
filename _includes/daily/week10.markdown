@@ -29,7 +29,7 @@ Project group work.
 
 ### Assignments
 
-**Due by the end of Sunday (March 17)**
+**Due by the end of Sunday (March 31)**
 
 - Make your blog posts.
 
