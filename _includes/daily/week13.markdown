@@ -29,7 +29,7 @@ topic and resources you found to the wiki page at [Open Source and ...](https://
 on these different discoveries. 
 
 - Make your blog post. Reflect on our discussion about the lessons from _The Cathedral and the Bazaar_. 
-Was your choice of favorite lesson afected by the discussion and opinions voiced by other students in the class?  **Also** reflect on your group's progress. What are some challenges
+Was your choice of favorite lesson affected by the discussion and opinions voiced by other students in the class?  **Also** reflect on your group's progress. What are some challenges
 that you (as a group) need to overcome? What are some challenges that you (as an individual) need to overcome? 
 
 - Start planning for your project presentation. 
