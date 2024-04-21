@@ -13,8 +13,11 @@ Open source and business/enterprise/industry.
 
 Slides: [Open Source Business Models](slides/business_models.html), [Business' Use of Open Source](slides/business_use_open_source.html) 
 
+Other resources
 
 - [Lessons Learned from Open Source in Business](https://www.youtube.com/watch?v=CnbDwrGZFuw)
+- [Getting Started with InnerSource](https://www.innersourcecommons.org/learn/books/)
+- [Monetizing Open Source: Business Models That Generate Billions](https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/?sh=673ca2ba34fd) by Glenn Solomon
 
 ### Lecture 2
 
