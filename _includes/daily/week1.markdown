@@ -26,7 +26,7 @@ course organization.
 __Materials__:
 
 - Videos:
-  - [Open Source Basics](https://youtu.be/Tyd0FO0tko8) by Intel Software <br>
+  - [Open Source Explained](https://www.youtube.com/watch?v=PVD1LNDxOnc) by IBM <br>
     A simple explanation of how open source projects manage change as well as the structure,
       roles, and terminology of open source software.
   - [How to jump start your career in open source](https://youtu.be/9X6HYoTl3K0) by  Eric D. Schabell, Red Hat, All Things Open 2018. <br>
