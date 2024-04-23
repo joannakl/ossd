@@ -292,6 +292,13 @@ one after another because you forgot something in the first one.
 * Proofread the text in your email before sending it. Most of the email clients check for
 typos, but they cannot tell if your email makes much sense. Read it, before you send it.
 
+## Alternative Ways of Finding Contributions
+
+- **[Up For Grabs](https://up-for-grabs.net/#/)**: A resource that lists projects with tasks specifically for newcomers to the open source community. It allows you to filter by  labels to find suitable issues to work on.
+
+- **[Good First Issues](https://goodfirstissue.dev/)**: This platform curates tasks from various GitHub repositories that are tagged as 'good first issues'.
+
+
 
 
 <br>
