@@ -299,7 +299,5 @@ typos, but they cannot tell if your email makes much sense. Read it, before you 
 - **[Good First Issues](https://goodfirstissue.dev/)**: This platform curates tasks from various GitHub repositories that are tagged as 'good first issues'.
 
 
-
-
 <br>
 <br>
