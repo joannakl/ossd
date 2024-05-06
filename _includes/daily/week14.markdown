@@ -25,7 +25,7 @@ Project group work.
 
 - Make your blog post. Reflect on the last week class discussion and your group's progress.
 
-- Start workig for your project presentation. 
+- Start working for your project presentation. 
 
 - Finalize all the individual contributions. 
 
