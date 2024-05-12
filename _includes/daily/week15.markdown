@@ -12,7 +12,7 @@ Group project presentations:
 
 - Bitwarden
 - Godot
-- Sprictify 
+- Spicetify 
 
 
 ### Lecture 2
