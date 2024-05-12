@@ -12,7 +12,7 @@ Group project presentations:
 
 - Bitwarden
 - Godot
-- Spicetify
+- Sprictify 
 
 
 ### Lecture 2
@@ -32,7 +32,7 @@ Group project presentations:
 
 ### Assignments
 
-**Due by the end of Sunday (May 5)**
+**Due by the end of Sunday (May 4)**
 
 - Make your blog post. Reflect on the presentations from this week and your group's progress.
 
