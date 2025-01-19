@@ -53,7 +53,7 @@ __Materials__:
 ### Assignments
 
 Due immediately:
-- complete this [questionnaire](https://forms.gle/TypjVSsMyB2mLEWe8) - if you do not have a GitHub account, create one first (your username does not need to be in anyway identifying you, your association with NYU or this course)
+- complete this [questionnaire](https://forms.gle/ZVYAgXn44NodXTh66) - if you do not have a GitHub account, create one first (your username does not need to be in anyway identifying you, your association with NYU or this course)
 
 Due by the end of the week (Sunday night): 
 - read the first two chapters of the "Forge Your Future with Open Source" by VM Brasseur:
