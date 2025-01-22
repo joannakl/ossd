@@ -44,6 +44,15 @@ maintained by the federal government. As they put it, it
 help the U.S. Government cut down on duplicative software development
 and save millions of taxpayer dollars for the American people."
 
+# Alternative Avenues for Contribution
+
+- [up-for-grabs.net](https://up-for-grabs.net/#/) is a platform that lists 
+open source projects specifically tagging issues as "good first issues". 
+It can be very helpful for finding good personal code contributions.
+
+- [goodfirstissue.dev](https://goodfirstissue.dev/) is a repository that 
+picks out good introductory issues from popular open source projects with 
+low bar to entry.
 
 # Prerequisites
 ---
