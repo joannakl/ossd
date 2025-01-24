@@ -57,6 +57,8 @@ Due immediately:
 
 Due by the end of the week (Sunday night): 
 
+- complete the [blog/ed/wiki/...](activities/blog_slack_wiki_git.html) activity
+
 - configure your blog
     - go to the repository for your blog
     - edit the `_config.yml` file following instructions in the file (post questions on Ed, if you run into any issue) - ideally, this should be done by cloning your repository, making changes in the local repo and then pushing them back (not by editing files directly on GitHub)
@@ -86,8 +88,6 @@ Due by the end of the week (Sunday, Feb 26, but complete as soon as possible):
 
     and [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html). 
 - complete the short quiz based on the above reading on Ed Lessons 
-
-- complete the [blog/ed/wiki/...](activities/blog_slack_wiki_git.html) activity
 
 
 

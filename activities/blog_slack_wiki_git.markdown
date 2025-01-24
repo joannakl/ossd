@@ -79,10 +79,8 @@ Slack is "A messaging app for teams". Slack helps teams working on projects to d
 
 ## Ed discussion forum
 
-Some of you might be familiar with Ed from other classes. We will be using Ed for all class communications. Many of the course activities will require 
-you to post updates on Ed. The activities and project live logs will be posted there. And many more. 
-
-Everything posted on Ed is indexed and searchable, making it easy to go back and find information and resources or reconstruct ideas and processes.
+Some of you might be familiar with Ed from other classes. We will be using Ed for all class communications. Some of the course activities will require 
+you to post updates on Ed. 
 
  **Tasks:**
 
@@ -116,9 +114,11 @@ If you do not wish the user name to be easily associated with you, pick somethin
 
 ## Course Wiki
 
-The course [organization on GitHub](https://github.com/ossd-s24) contains a private repository called wiki. 
-The repository will remain empty throughtout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s24/wiki/wiki). 
+The course [organization on GitHub](https://github.com/ossd-s25) contains a private repository called wiki. 
+The repository will remain empty throughtout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s25/wiki/wiki). 
 We will use this for content that needs to be jointly edited by everybody in the class. All of you should have write access to the existing pages and permission to create new pages.
+
+This is a private wiki, so only people in the class have access to it.
 
 **Tasks**
 
@@ -126,10 +126,10 @@ Go to the existing page called _OSSD participants_ and edit it to add your name 
 - your name,
 - link to your blog (the actual blog page, not the repository),
 - link to your GitHub profile
-- your Wikipedia username with a link to your contributions page
-- your OpenStreetMap username  with a link to your contributions page 
+- your Wikipedia username with a link to __your contributions page__
+- your OpenStreetMap username  with a link to __your contributions page__ 
 - the name (and a link) of your favorite open source project (challenge: pick
-  a project that nobody else listed; you can list more than one) - this should be a project that you are at least somewhat familiar with, so spend some time figuring out what you want it to be
+  a project that nobody else listed; you can list more than one) - this should be a project that you are at least somewhat familiar with, so spend some time figuring out what you want it to be (do not just search the web and use the first project that comes up) 
 
   Follow the formatting in my entry! (and use it as a guide for markdown if you are not familiar with markdown yet).
 
