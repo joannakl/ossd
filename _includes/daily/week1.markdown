@@ -56,17 +56,13 @@ Due immediately:
 - complete this [questionnaire](https://forms.gle/ZVYAgXn44NodXTh66) - if you do not have a GitHub account, create one first (your username does not need to be in anyway identifying you, your association with NYU or this course)
 
 Due by the end of the week (Sunday night): 
-- read the first two chapters of the "Forge Your Future with Open Source" by VM Brasseur:
-    - The Foundations and Philosophies of Free and Open Source 
-    - What Free and Open Source Can Do for You
 
-    and [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html). 
-- complete the short quiz based on the above reading on Ed Lessons 
-
-- complete the [blog/ed/wiki/...](activities/blog_slack_wiki_git.html) activity
+- configure your blog
+    - go to the repository for your blog
+    - edit the `_config.yml` file following instructions in the file (post questions on Ed, if you run into any issue) - ideally, this should be done by cloning your repository, making changes in the local repo and then pushing them back (not by editing files directly on GitHub)
 
 - make your first blog post
-    - in the `_posts` directory, edit `2022-01-21-week01.md` file to update your first
+    - in the `_posts` directory, edit `2025-01-26-week01.md` file to update your first
     weekly blog post (change the name of the file to reflect the date of your post - this should be 2024-01-28 or before)
 	- title the post "Week 1: ... " in which you replace ... with your own title (the week numbering will make it easier to keep track of posts later in the semester)
     - address the following points in your post (keep in mind that your blog post should be just prose, not a Q&amp;A for the prompts below; it should include formatting to make it more readable, and it can include links and images if you wish)
@@ -77,11 +73,21 @@ Due by the end of the week (Sunday night):
         (Keep in mind that these blogs are publicly available to anybody who stumbles upon them. Make sure that the posts are appropriate.)
 
     HINT: look at your blog page after you are done editing to make sure it has the correct content and that the text is formatted the way you intended it to be.
-    Your blog page is at `https://ossd-s24.github.io/YOUR_USER_NAME-weekly/`
+    Your blog page is at `https://ossd-s25.github.io/YOUR_USER_NAME-weekly/`
     (after you replace `YOUR_USER_NAME` with your actual username, of course).
     
 - install a recent version of Firefox on your computer (if not there already)
 
+
+Due by the end of the week (Sunday, Feb 26, but complete as soon as possible): 
+- read the first two chapters of the "Forge Your Future with Open Source" by VM Brasseur:
+    - The Foundations and Philosophies of Free and Open Source 
+    - What Free and Open Source Can Do for You
+
+    and [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html). 
+- complete the short quiz based on the above reading on Ed Lessons 
+
+- complete the [blog/ed/wiki/...](activities/blog_slack_wiki_git.html) activity
 
 
 
