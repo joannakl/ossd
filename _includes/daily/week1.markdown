@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 1, Intro to the course
+## Week 1, (1/22, half week), Intro to the course
 </div>
 
 <div class="column_materials"  markdown="1">
@@ -12,10 +12,6 @@ Intro to the class/course: why are we here? what is open source? what will you l
 course organization.
 
 [slides](slides/course_logistics.html)
-
-### Lecture 2
-
-[Introduction to FOSS](slides/introduction.html)
 
 
 
@@ -79,15 +75,6 @@ Due by the end of the week (Sunday night):
     (after you replace `YOUR_USER_NAME` with your actual username, of course).
     
 - install a recent version of Firefox on your computer (if not there already)
-
-
-Due by the end of the week (Sunday, Feb 26, but complete as soon as possible): 
-- read the first two chapters of the "Forge Your Future with Open Source" by VM Brasseur:
-    - The Foundations and Philosophies of Free and Open Source 
-    - What Free and Open Source Can Do for You
-
-    and [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html). 
-- complete the short quiz based on the above reading on Ed Lessons 
 
 
 
