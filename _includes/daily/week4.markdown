@@ -60,6 +60,8 @@ Due by the end of the week (i.e., by the end of Sunday)
 - Read the materials on version control linked to under lecture 2 for this week. Complete
 the quiz on Ed Lessons after the reading. 
 
+- Complete the [peer evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSeSmeFhWLh1-j4OBjYRbFMWf5o5qfNlUXvGmYklLNzOGmwY9g/viewform?usp=sharing) 
+for your group work on the browser extension. 
 
 Ongoing
 - continue making small personal contributions (keep in mind that they should 
