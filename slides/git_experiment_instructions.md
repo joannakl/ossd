@@ -180,7 +180,7 @@ We'll continue working with potential_jokes branch
 
 -  `git commit -m "changed ratings" fun.txt`
 
-- `git chouckout main`
+- `git checkout main`
 
 - DO YOU THINK WE WILL HAVE A MERGE CONFLICT? 
 
