@@ -21,9 +21,17 @@ Looking at
 - [3D Slicer](https://www.slicer.org/)
 - [Blockly](https://developers.google.com/blockly/)
 
+__Readings__
+
+- [Evaluating Open Source Projects](https://producingoss.com/en/evaluating-oss-projects.html) from _Producing Open Source_ by Karl Fogel
+- chapter four, Find a Project, of "Forge Your Future with Open Source" by VM Brasseur
+- section 4 of How-to-contribute guide from GitHub: [Finding a project to contribute to](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to)
+
 
 ### Lecture 2
 
+
+[Project evaluation activity](https://github.com/ossd-s25/project-evaluation) 
 
 </div>
 
