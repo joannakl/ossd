@@ -53,7 +53,7 @@ to the table, and your interests that may play a role in your choice of a projec
 
 - Make your blog posts: what are your thoughts about different projects that you have looked at so far? what are you most excited about regarding working on an opens source project? what do you think will be the biggest challenges? how do you plan to overcome them? 
 
-Due by the end of the __next__week (but sooner than later)
+Due by the end of the __next__ week (but sooner than later)
 
 - Pick an open source project that you may be interested in contributing to (this should be something that you are excited about, something that you think you may want to be working on, something that matches your goals and skills as you outlined them in the _taking stock_ exercise; it also should NOT be one of the projects assigned in the first part of the project evaluation exercise that you completed with a partner last week). Complete the project evaluation and create a file for that project in the [project evaluation](https://github.com/ossd-s25/project-evaluation) repository.
 
