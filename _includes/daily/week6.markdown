@@ -32,6 +32,10 @@ __Readings__
 
 ### Lecture 2
 
+Overview of different types of contributions and working approach of
+the past projects. 
+
+Approaches to group work and community rules for group work. 
 
 </div>
 
@@ -43,7 +47,7 @@ __Readings__
 ### Assignments
 
 Due by the end of the week (i.e., Sunday)
-- Make your blog post for the week. Comment on the videos you watched and the class discussion about them from this week. Were you surprised by anything you learned? What role, do you think, you could play as a computer scientist to address some of the issues mentioned in the discussion and videos? 
+- ~~Make your blog post for the week. Comment on the videos you watched and the class discussion about them from this week. Were you surprised by anything you learned? What role, do you think, you could play as a computer scientist to address some of the issues mentioned in the discussion and videos?~~ 
 - Comment on your _small_ contributions: how are things going, what types of contributions were you able to make? what are the biggest challenges? which contribution are you most proud of? 
 
 
