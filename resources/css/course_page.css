@@ -374,6 +374,12 @@ td {
   border: 1px solid black;
   overflow: hidden;
 }
+.weekfuture {
+  clear: left;
+  padding-bottom: 10px;
+  border: 1px solid black;
+  overflow: hidden;
+}
 .important {
   clear: left;
   border: 1px solid black;
@@ -440,6 +446,9 @@ td {
 }
 @media (min-width: 700px) {
   .week {
+    width: 79%;
+  }
+  .weekfuture {
     width: 79%;
   }
   .important {
