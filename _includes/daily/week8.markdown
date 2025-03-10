@@ -11,9 +11,17 @@
 
 ### Lecture 1 
 
+~~Invited talk by 
+[Olivier Poupeney](https://www.linkedin.com/in/olivierpoupeney//) from [FINOS](https://www.finos.org/)~~  - postponed to later date.
 
-Invited talk by 
-[Olivier Poupeney](https://www.linkedin.com/in/olivierpoupeney//) from [FINOS](https://www.finos.org/) 
+
+
+A bit of open source [history](slides/history.html). 
+
+[Faces of Open Source](https://www.facesofopensource.com/)
+
+See the _Bio of a FOSS person_ on the course wiki. 
+
 
 ### Lecture 2
 
