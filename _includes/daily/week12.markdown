@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 9 ( 3/17 ) future preview
+## Week 11 ( 3/31 )
 </div>
 
 
@@ -16,7 +16,7 @@ Project group work.
 
 ### Lecture 2
 
-Midterm reflections. 
+_The Cathedral and the Bazaar_ discussion. 
 
 </div>
 
@@ -27,7 +27,7 @@ Midterm reflections.
 
 ### Assignments
 
-
+- make your blog post:
 
 </div>
 </div>

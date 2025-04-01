@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 9 ( 3/17 ) future preview
+## Week 10 ( 3/24 )
 </div>
 
 
@@ -9,14 +9,10 @@
 
 
 
-### Lecture 1 
-
-Project group work. 
+### <span class="green">Spring Break</span>
 
 
-### Lecture 2
 
-Midterm reflections. 
 
 </div>
 
@@ -26,6 +22,8 @@ Midterm reflections.
 
 
 ### Assignments
+
+Nothing to do, unless you did not finish things from previous weeks. 
 
 
 
