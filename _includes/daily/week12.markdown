@@ -17,7 +17,7 @@ Project group work.
 ### Lecture 2
 
 
-[_The Cathedral and the Bazaar_discussion](slides/cathedral_bazaar_lessons.html) 
+[_The Cathedral and the Bazaar_ discussion](slides/cathedral_bazaar_lessons.html) 
  
 [Eric S Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond) 
 
