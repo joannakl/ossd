@@ -21,6 +21,8 @@ Stand up reports. Plan to quickly summarize:
 
 ### Lecture 2
 
+Open source in business / industry. 
+
 
 </div>
 
