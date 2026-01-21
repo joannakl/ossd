@@ -1,8 +1,8 @@
 
-title: CSCI-UA 480 (Open Source Software Development, Sp 2025)
+title: CSCI-UA 480 (Open Source Software Development, Sp 2026)
 description: "Course website for CSCI-UA 480 (Open Source Software Development) course."
 
-baseurl: "/ossd_s25" 
+baseurl: "/ossd_s26" 
 url: "https://joannakl.github.io/ossd" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
@@ -19,7 +19,7 @@ exclude:
 course_number: "CSCI-UA 480"
 course_name: "Open Source Software Development"
 course_section: "061"
-course_semester: "Spring 2025"
+course_semester: "Spring 2026"
 course_time: "Mondays, Wednesdays 12:30pm - 1:45pm"
 course_location: "60 Fifth Ave 110"
 
@@ -40,7 +40,7 @@ tutor_schedule_link: ""
 current_course1_title: "CSCI 102 sec. 1"
 current_course1_link: "https://cs.nyu.edu/~joannakl/cs102/"
 current_course3_title: "CSCI 480 sec. 61 (OSSD)"
-current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s25/"
+current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s26/"
 current_course3_title: ""
 current_course3_link: ""
 
@@ -50,7 +50,7 @@ final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 
 piazza_site: https://edstem.org
 gradescope_site: ""
-github_site: https://github.com/ossd-s25/
+github_site: https://github.com/ossd-s26/
 website_github_site: https://github.com/joannakl/ossd
 
 book_opt_1: "Producing Open Source Software, "

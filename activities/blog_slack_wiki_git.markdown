@@ -51,30 +51,6 @@ Note: You should clone the repository to your local machine, make changes there 
 
 You should be making your first blog post by the end of the first week of classes and then weekly throughout the semester.
 
-<!--
-## Slack
-
-Slack is "A messaging app for teams". Slack helps teams working on projects to do all communications within a single app rather than spreading information across e-mail, im, texts, etc. Everything posted on Slack is indexed and searchable, making it easy to go back and find information and resources or reconstruct ideas and processes.
-
- **Tasks:**
-
- 1.  Skim over the [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) page to familiarize yourself with the Slack Basics. You don't have to get everything... just get the idea.
- 2.  Use this link [nyuossd.slack.com/signup](https://join.slack.com/t/cs-2sr2399/shared_invite/zt-12cw2ik8m-tWRCYB5OIOoObEVUi~Bueg) to sign up directly for our course Slack Workspace.
- 3.  [Edit Your Profile](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile) to include at least your first and last name. You can also upload a photo or avatar if you'd like.
- 4.  Skim over the links in the [Work in Channels Topic](https://get.slack.help/hc/en-us/categories/200111606) page
- 5.   Skim over the links in the [Send Messages Topic](https://get.slack.help/hc/en-us/categories/200111606#send-messages) do the following:
-     -   Post a message to the #general channel.
-     -   Edit the message you just posted.
-     -   Star the #course channel and note where your starred channels appear.
-     -   Star a message in the #general channel and note where your starred messages appear.
-     -   Add a reaction to a message in the #general channel.
-     -   Team up with a classmate or two:
-         -   Mention another member in a message in the #general channel.
-         -   Find the list of your mentions and reactions.
-         -   Send a direct message to someone.
-         -   Reply to a direct message from someone.
-
--->
 
 
 ## Ed discussion forum
@@ -114,8 +90,8 @@ If you do not wish the user name to be easily associated with you, pick somethin
 
 ## Course Wiki
 
-The course [organization on GitHub](https://github.com/ossd-s25) contains a private repository called wiki. 
-The repository will remain empty throughtout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s25/wiki/wiki). 
+The course [organization on GitHub](https://github.com/ossd-s26) contains a private repository called wiki. 
+The repository will remain empty throughtout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s26/wiki/wiki). 
 We will use this for content that needs to be jointly edited by everybody in the class. All of you should have write access to the existing pages and permission to create new pages.
 
 This is a private wiki, so only people in the class have access to it.

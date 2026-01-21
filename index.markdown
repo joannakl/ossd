@@ -8,9 +8,9 @@ title:  Syllabus, CSCI-UA 480, Klukowska
 
 * Professor Joanna Klukowska
 * Office Hours 
-    * in person: Mondays 9:30 AM - 11:00 AM (423 CIWW)
+    * in person: Mondays 11:00 AM - noon (423 CIWW)
     * on Zoom (see Brightspace for links): Thursdays 1:00 - 2:30 PM
-* Email: jk157@cs.nyu.edu 
+* Email: joannakl@nyu.edu 
 
 # Course Information
 
@@ -18,7 +18,7 @@ title:  Syllabus, CSCI-UA 480, Klukowska
 * 4 credits
 * Lectures:  {{ site.course_time }} (attendance is mandatory)
 * Class meetings at: {{ site.course_location }}
-* [Course website: https://cs.nyu.edu/~joannakl/ossd_s25/](https://cs.nyu.edu/~joannakl/ossd_s25/)
+* [Course website: https://cs.nyu.edu/~joannakl/ossd_s26/](https://cs.nyu.edu/~joannakl/ossd_s26/)
 * [Brightspace: https://brightspace.nyu.edu/](https://brightspace.nyu.edu/)
 * [Ed discussions: https://edstem.org/us/dashboard](https://edstem.org/us/dashboard) (accessible through Brightspace as well) 
 * Prerequisites:     
@@ -111,7 +111,7 @@ The grade of *Incomplete* is reserved for students who, for legitimate and docum
 
 ## Course Website and Brightspace
 
-You can access all course related materials on the [course website](https://cs.nyu.edu/~joannakl/ossd_s25/). 
+You can access all course related materials on the [course website](https://cs.nyu.edu/~joannakl/ossd_s26/). 
 
 In addition, you may find your grades on [Brightspace](https://brightspace.nyu.edu/) page for this course. 
 
