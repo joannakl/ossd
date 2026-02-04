@@ -19,8 +19,6 @@ Blog editing and formatting. [Jekyll blogs documentation](https://jekyllrb.com/d
 
 Contributions you should be working on, [slides](slides/contributions.html)
 
-Anatomy of a project, [slides](slides/anatomy_project.html) 
-
 
 
 Code of conduct, samples:

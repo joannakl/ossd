@@ -11,29 +11,21 @@
 
 ### Lecture 1
 
+Anatomy of a project, [slides](slides/anatomy_project.html) 
 
-
-Create your first open source project (at least, in this class).
-
-Find your team members and make sure you are sitting together so that
-you can work together.
-
-
-The instructions for the activity are at [Browser Add-on Activity](https://cs.nyu.edu/~joannakl/ossd_s25/activities/browser_add-on_activity.html).
-
-
+Looking at first few projects, their repository structure, important documents, issue trackers, communication channels, etc. 
 
 
 ### Lecture 2
 
+Create your first open source project (at least, in this class).
 
-Anatomy of a FOSS project, [slides](slides/anatomy_project.html)
+Find your team members and make sure you are sitting together so that
+you can work together. The team assignment are at https://github.com/ossd-s26/wiki/wiki/First-Project-Activity - you need to be part of the course to access this page. 
 
 
-[Version control systems and Git](slides/version_control_systems.html)
-
-Readings:
-- the first two chapters in ProGit book  (Getting Started, Git Basics)
+The instructions for the activity are in a [private repository for the class](https://github.com/ossd-s26/add-on-activity) 
+(you need to be part of the course to access this repository). 
 
 </div>
 
@@ -47,28 +39,32 @@ Readings:
 
 Due by the end of the week (i.e., by the end of Sunday)
 - Make your blog post. Comment on 
-the work with your team and progress you have made towards your first browser extension (what 
+the work with your team and progress you have made towards your first open source project (what 
 are some problems the group is facing, what good things happened, how do you fit 
 into the collaboration, what are your biggest contributions, were there any surprising things you discovered about 
 yourself in the process of the group work) 
 - Complete the brief quiz on Ed Lessons called _Anatomy of a FOSS project_
 
 
-Due by February 12
-- with your group, continue working on the add-on project
+Readings:
+- the first two chapters in ProGit book  (Getting Started, Git Basics)
+
+Due by February 16
+- with your group, continue working on your first project
 - make sure that the project follows all the best practices of open source
-- prepare a 5 minute presentation about your project (to be delivered in front of the class on Feb 12) - you do not need to make slides,
-but you need to decide how to organize your presentation and showcase your extension
-- One person from each team working on Firefox add-ons should make a post in the
-  browser-extension-presentations page on the class wiki. (The other people need to view it and make sure that it is there and that it 
+- prepare a 5 minute presentation about your project (to be delivered in front of the class on Feb 17) - you do not need to make slides,
+but you need to decide how to organize your presentation and showcase your work
+- one person from each team  should make a post in the
+  "First Project Activity" page on the class wiki. (The other people need to view it and make sure that it is there and that it 
   is properly formatted.)
   The post should follow this format: <br/>
-  `Team TeamNumber, [Extension Name](link to the GitHub repo) ` <br/>
+  `Team TeamColor, [Project Name](link to the GitHub repo) ` <br/>
   `Team Member 1` <br/>
   `Team Member 2` <br/>
+  `Team Member 3` <br/>
   ...
-  (Where the `Team TeamNumber` is the team number you were given during the in-class session.)
-  If you are going to use any slides for the presentation on 2/14 then link them here as well. 
+  (Where the `Team TeamColor` is the team color you were given during the in-class session.)
+  If you are going to use any slides for the presentation on 2/17 then link them here as well. 
 
 
 
