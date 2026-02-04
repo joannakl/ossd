@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 3 (2/3)
+## Week 3 (2/2)
 </div>
 
 
