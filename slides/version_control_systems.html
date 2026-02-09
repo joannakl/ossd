@@ -22,7 +22,7 @@ Instructor: Joanna Klukowska <br>
 ]
 
 .license[
-Copyrigth: Joanna Klukowska and Stewart Weiss, 2020 <br>
+Copyright: Joanna Klukowska and Stewart Weiss, 2020 <br>
 Unless noted otherwise all content is released under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 ]
@@ -255,9 +255,8 @@ by someone else.
 --
 
   When the same part of the file has been modified in two different ways a VCS may not
-be able to merge the differences together. The changes may be within a single line
-but they also can be more general than that. In this case, the VCS notifies the human
-that a __merge conflict__ exists and must be resolved manually.
+be able to merge the differences together. The changes may be a single line or across different parts of the file. 
+In this case, the VCS notifies the human that a __merge conflict__ exists and must be resolved manually.
 
 ---
 ## About Git
@@ -277,7 +276,9 @@ that a __merge conflict__ exists and must be resolved manually.
 
 <br><br>
 
-![Figure 6 from ProGit](https://git-scm.com/book/en/v2/images/areas.png)
+.center[
+  <img src="https://git-scm.com/book/en/v2/images/areas.png" width="75%" />
+]
 
 ---
 ## The States of a File in Git
@@ -309,6 +310,29 @@ that a __merge conflict__ exists and must be resolved manually.
   are all in its database, and you have not yet modified them.
 
 ---
+
+## What NOT to track: .gitignore
+
+- Not every file in your project folder should be in the repository. 
+
+--
+
+- A `.gitignore` file is a text file where you list patterns of files/directories Git should ignore.
+
+--
+
+- **What usually goes in here?**
+ - Compiled code ( `.class`, `.exe`, `.o`)
+ - External dependencies ( `node_modules/`, `venv/`)
+ - System-specific files ( `.DS_Store`, `Thumbs.db`)
+ - Secret keys and credentials ( `.env`)
+
+--
+
+- Check out [gitignore.io](https://www.gitignore.io) to generate templates for your specific language or IDE.
+
+
+---
 ## Making Changes with Git
 
 
@@ -321,8 +345,39 @@ that a __merge conflict__ exists and must be resolved manually.
 
   1. __Commit__ all work that has been staged.
 
+---
+
+## Mental Model: The Loading Dock
+
+Think of your workflow like shipping a crate of parts:
+
+- **Working Directory (Modified):** Your workbench. You are busy fixing parts and creating new ones.
+
+--
+
+- **Staging Area (Staged):** The **loading dock**. You’ve picked the specific parts that are finished and placed them in a shipping crate.
+
+--
+
+- **Local Repository (Committed):** The crate is **sealed and labeled**. It is now a permanent part of the ship's manifest.
+
+--
+
+- **Remote Repository (Pushed):** The crate has been **delivered** to the main warehouse (GitHub).
+
+--
+
+**Why the middle step (staging)?** 
+
+--
+
+Staging allows you to group related changes together, even if you modified 10 different files for 10 different reasons.
+
+- **BUT** these should be **related** changes, not a mishmash of everything you changed in the past few months. (And if you do, make sure you include a commit message that reflect this mishmash.) 
+
 
 ---
+
 ## Basic Git Commands: Installing
 
 - Installing Git
@@ -346,7 +401,7 @@ that a __merge conflict__ exists and must be resolved manually.
 
         `git config --global user.email "John.Doe@worlds.net"`
 
-    - Set up your prefered text editor:
+    - Set up your preferred text editor:
 
         `git config --global user.editor vi`
 
@@ -354,6 +409,9 @@ that a __merge conflict__ exists and must be resolved manually.
     retype your username and password on every single push
 
         ` git config --global credential.helper cache`
+        
+    - (Note that many companies that provide remote git repository hosting now require
+    SSH keys, or personal access tokens. Know what you are using.) 
 
     - Check your current configuration, i.e., list the config state:
 
@@ -375,7 +433,7 @@ that a __merge conflict__ exists and must be resolved manually.
       the server, in the current working directory.
 
   - To clone a  repository on the local machine you also use `git clone` but give
-    it the path top the existing  repository:
+    it the path to the existing  repository:
 
        `git clone PATHNAME`
 
@@ -385,7 +443,7 @@ that a __merge conflict__ exists and must be resolved manually.
 
 
 ---
-## Basic Git Commands: Repository Information
+## Basic Git Commands: Repository Info
 
 - Getting information about your repository (the local copy of it):
 
@@ -407,6 +465,23 @@ that a __merge conflict__ exists and must be resolved manually.
          `git remote -v`
 
 ---
+
+## Pro-Tip: Readable History
+
+- The standard `git log` can be overwhelming in large projects.
+
+- Try the "oneline" flag for a bird's-eye view:
+
+ `git log --oneline`
+ 
+--
+
+- To see the "graph" of branches and merges (very helpful later!):
+
+ `git log --oneline --graph --all`
+ 
+
+---
 ## Basic Git Commands: Local Workflow
 
 - After you modify some files:
@@ -426,7 +501,7 @@ that a __merge conflict__ exists and must be resolved manually.
 --
 
 - If you modify a tracked file, you can commit without staging.
-  Say you modified `file1` after commiting.
+  Say you modified `file1` after committing.
 
     - Commit the tracked, modified file `file1`:
 
@@ -451,6 +526,29 @@ that a __merge conflict__ exists and must be resolved manually.
 
           `git push origin main`
 
+
+---
+
+## Aside: Default Git Branch
+
+- Most of the modern `git` installations use `main` as the name of the default branch. 
+
+- In the older installations you may still encounter `master` as the name of the default branch. 
+
+- The change was made in 2020. 
+
+--
+
+- Why do you think this change was made? 
+
+--
+
+For more, see [From ‘Master’ to ‘Main’: The Meaning Behind Git’s Naming Shift](https://medium.com/@vikasacsoni9211/from-master-to-main-the-meaning-behind-git-s-naming-shift-720ccf59729d) 
+
+
+
+- 
+
 ---
 
 ## Basic Git Commands: Pulling
@@ -466,13 +564,20 @@ that a __merge conflict__ exists and must be resolved manually.
 
      - To "pull" the current state of the remote, in this simple case, you can use
 
-          `git pull`
+          `git pull`   (or for clarity `git pull origin` )
+          
+--
 
-        or for clarity
+- Under the Hood: Pull = Fetch + Merge, 
+--
+when you run `git pull`, Git is actually doing two things:
+    
+  - **`git fetch`**: Go to the remote (origin) and download all the new data, but don't touch your local work yet.
+  - **`git merge`**: Try to combine those remote changes into your current local branch.
 
-          `git pull origin`
+- **Why does this matter?** If you and a teammate edited the same line, the `fetch` will succeed, but the `merge` will trigger a merge conflict. (Sometimes it may be useful to be able to separate the two steps.)
 
-  Later we will cover using `git fetch` as a safer way to do this.
+
 
 ---
 ## What Lies Ahead
@@ -504,6 +609,289 @@ licensed under [Creative Commons Attribution Non Commercial Share Alike 3.0 lice
 
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
 licensed under a [Attribution 2.5 Australia (CC BY 2.5 AU)](https://creativecommons.org/licenses/by/2.5/au/) license.
+
+---
+
+# Simple Example
+
+---
+
+## Create a Repository and Track a First File
+
+- Create a new folder for your project
+```
+mkdir my_project
+cd my_project
+  ```
+  
+- Initialize the repository
+```
+git init
+```
+--
+
+- Create a file
+```
+echo "Hello World" > hello.txt
+```
+  (or create a text file in your favorite text editor)
+  
+--
+
+- Check the status
+```
+git status
+```
+
+  the output should be: "untracked files: hello.txt"
+
+--
+
+- Stage and commit, and then check the status again 
+```
+git add hello.txt
+git commit -m "Initial commit: Add hello.txt"
+git status
+```
+
+---
+## Modifying and "Saving" Progress 
+
+- Modify the file
+```
+echo "Git is powerful!" >> hello.txt
+```
+--
+
+- See what changed
+```
+git diff
+```
+
+  (`git diff` shows you the exact lines added (+) or removed (-) before you commit)
+
+--
+
+- Commit the change
+```
+git add hello.txt
+git commit -m "Update hello.txt with a new sentence"
+```
+
+---
+
+## Viewing the Timeline 
+
+- Show the full history
+```
+git log
+```
+
+
+- Show a condensed version
+```
+git log --oneline
+```
+--
+
+  expected output should be something like: 
+  ```
+  a1b2c3d Update hello.txt with a new sentence
+  e5f6g7h Initial commit: Add hello.txt
+  ```
+
+  Each commit has a unique "ID" (the hash) that allows you to jump back to that exact moment in time later if you need to revert some changes.
+
+
+---
+## Adding More Files
+
+
+- Create more files
+```
+touch README.md index.html
+```
+
+  (this creates two empty files) 
+  
+--
+
+- Check the status and notice how the files are listed in different categories.
+```
+git status
+```
+
+--
+
+- Add the first file and check the status again (notice that now the files are in three different categories) 
+```
+git README.md 
+git status 
+```
+
+- Then add the second file and check status 
+```
+git index.html 
+git status 
+```
+
+--
+
+- Commit the changes (i.e., the two new files) 
+```
+git commit -m "Add README and index files"
+```
+
+---
+
+## Ooops! 
+### I deleted a file, how do I get it back? 
+
+What happens if you accidentally delete your work? For example, let's delete `hello.txt` file 
+
+```
+rm hello.txt
+```
+
+--
+
+Since we **committed** the files, `git` has a backup in the local database. 
+And often, `git` will tell you what to do.
+
+Run 
+```
+git status
+```
+
+and look at the output.
+
+--
+
+Now, follow `git`'s suggestion and run 
+
+```
+git restore hello.txt
+``` 
+
+---
+## Bigger Ooops!
+### Undoing a "Committed" Deletion
+
+Sometimes you delete a file, commit that deletion, and realize two days later you actually needed it. Because it was in a **previous commit**, it's not gone.
+
+--
+
+name: restore-committed
+
+- Delete the file and COMMIT the change
+```
+rm hello.txt
+git add hello.txt
+git commit -m "Delete hello.txt because I thought I didn't need it"
+```
+
+--
+
+- Look at your history to find where it last existed
+```
+git log --oneline
+```
+
+  the output should start with something like 
+  ```
+  a1b2c3d Delete hello.txt...
+  e5f6g7h Add README and index files    <---   (The file existed here!)
+  ```
+
+--
+
+- Restore the file from that specific commit ID
+```
+git restore --source e5f6g7h hello.txt
+```
+
+  `--source` this tells `git`, "Don't look in the current state; look inside this specific snapshot from the past."
+
+--
+
+- The file is now back in the working directory. We need to stage it and commit it, 
+
+---
+template: restore-committed
+
+- An alternative restore method works if you know that the file existed in the previous commit. In that case, you can use 
+```
+git restore --source HEAD~1 hello.txt
+```
+
+  `HEAD~1` means the commit right before the current one 
+
+--
+
+🚨 You need `git` version 2.23 or higher to use `restore`. 
+
+
+---
+## Where is my data? The .git/objects folder
+
+- Git doesn't store "files"; it stores **objects**.
+
+- When we use `git add` a file, `git` does several things:
+  - Compresses the content.
+  - Calculates a unique **SHA-1 hash** (a 40-character ID).
+  - Stores it in `.git/objects` using that hash as the filename.
+
+--
+
+- Can we _look_ at these objects 
+
+--
+
+  We can see the files, but they are not text files and their names are not really readable, so we cannot just look at them using standard file viewers or even figure out what is what in a file browser. </br> 
+
+--
+
+  We need to use `git` tools:
+
+  `git cat-file -t <hash>`  - show the object type identified by object represented by this hash 
+  `git cat-file -p <hash>`  - pretty-print the contents of the object represented by this hash 
+
+
+---
+
+## Where is my data? The .git/objects folder
+
+- Run `git log --oneline` to see the hashes for commit objects. Select one of them, say it's `HASH`.
+
+--
+
+- Run `git cat-file -t HASH` - this will tell us the type of this object: its a commit object.
+
+--
+
+- Run `git cat-file -p HASH` - this time we'll see the author, the commit message, the date and the __tree__ hash, say it is `TREE`.  
+
+--
+
+- Now, run `git cat-file -p TREE` to see the list of files in tree object with hash TREE in the commit object with hash HASH. 
+
+--
+
+- Pick a hash for a file object, say it is `FILE`. 
+
+- Run `git cat-file -p FILE` to see the contents of the actual file. 
+
+--
+
+ASIDE</br>
+Assuming that you still have the repository with files exactly as they were created in the previous slides, take a look at the hashes for files 
+README.md and index.html. What do you notice? 
+
+--
+
+  - They are exactly the same because both files are empty. The hash is created based on the content of the file. So identical files have the same objects irrespective of their names. 
+  
+  
 
 
 
