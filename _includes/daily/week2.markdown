@@ -55,7 +55,7 @@ Due by the end of the week (i.e., Sunday)
 Preparing for next week: 
 
 - watch the recording of a talk from the Open Source Leadership Summit about communication challenges in open source communities:
-[How to Drive Consensus and Transparency Within Open Source Communities](https://www.youtube.com/watch?v=ZYwTDNA3Uac) ; consider the content in two context:
+[How to Drive Consensus and Transparency Within Open Source Communities](https://www.youtube.com/watch?v=ZYwTDNA3Uac) ; consider the content in two contexts:
     - what does it tell you about open source communities and how to interact with them
     - what lessons does it offer for any group work / projects that you may be part of 
 
