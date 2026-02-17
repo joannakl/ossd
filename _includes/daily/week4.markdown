@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 4 (2/10)
+## Week 4 
 </div>
 
 
@@ -11,9 +11,9 @@
 
 ### Lecture 1
 
-Working with `git` version control. Exploring the actual repository, `.git`. Creating branches, merging, commit logs. 
+Working with `git` version control. Exploring the actual repository: `.git`. 
 
-[instructions we run in class](slides/git_experiment_instructions.md)
+[Version control systems and Git](slides/version_control_systems.html)
 
 Readings:
 - the first two chapters in ProGit book  (Getting Started, Git Basics)
@@ -21,24 +21,20 @@ Readings:
 
 ### Lecture 2
 
-Presentations of the browser add-ons projects.
 
 
-Team 2, [Virtual Pet](https://github.com/ossd-s25/Team2-add-on-ScreenPet)
+[Project evaluation ](slides/project_evaluation.html)
 
-Team 3, [Website Time Tracker](https://github.com/ossd-s25/websiteTimeTracker)  
+See project-evaluation repository in the course organization for the list of projects to evaluate. 
 
-Team 5, [Quick Notes](https://github.com/ossd-s25/Quick-Notes)  
-[Our Presentation](https://github.com/ossd-s25/Quick-Notes/blob/main/PRESENTATION.md)
 
-Team 6, [I Did That extension](https://github.com/ossd-s25/i-did-that-extension)
 
-Team 7, [Browser Scroller](https://github.com/ossd-s25/Browser-Scroller)
+__Readings__
 
-Team 8, [GitHelper](https://github.com/danny031103/OSSD_group_Extension)
+- [Evaluating Open Source Projects](https://producingoss.com/en/evaluating-oss-projects.html) from _Producing Open Source_ by Karl Fogel
+- chapter four, Find a Project, of "Forge Your Future with Open Source" by VM Brasseur
+- section 4 of How-to-contribute guide from GitHub: [Finding a project to contribute to](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to)
 
-Team 9, [Tomato Clock](https://github.com/ossd-s25/team-9-add-on)  
-[Our Presentation](https://docs.google.com/presentation/d/1MtaJn9v61bBw754R91K-zpqfEehxKQgc/edit#slide=id.p1)  
 
 
 
@@ -53,21 +49,22 @@ Team 9, [Tomato Clock](https://github.com/ossd-s25/team-9-add-on)
 
 
 Due by the end of the week (i.e., by the end of Sunday)
-- Make your blog post for the week. 
-  - Comment on the `git` exercises we did in class. 
-  - Comment presentations and extensions created by other groups. 
-  - What was a biggest take-away from your own group work and from watching other groups. 
+
 - Read the materials on version control linked to under lecture 2 for this week. Complete
 the quiz on Ed Lessons after the reading. 
 
-- Complete the [peer evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSeSmeFhWLh1-j4OBjYRbFMWf5o5qfNlUXvGmYklLNzOGmwY9g/viewform?usp=sharing) 
-for your group work on the browser extension. 
+- Read a few project evaluations created by other students. Focus on projects that you are familiar with or that seem to fit your project preferences. 
+
+- Make your blog post for the week. 
+  - Comment on the `git` exercises we did in class. 
+  - Comment on project evaluation. What are your thoughts about different projects that you have looked at so far? what are you most excited about regarding working on an opens source project? what do you think will be the biggest challenges? how do you plan to overcome them? 
+  
 
 Ongoing
 - continue making small personal contributions (keep in mind that they should 
 be done on a regular basis and be diverse in terms of their type) 
 - start looking at different open source projects from the angle of possible 
-contributions 
+contributions (while you are evaluating projects, look at things that you could do right now without diving too much into the project) 
 
 
 
