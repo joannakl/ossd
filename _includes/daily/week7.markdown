@@ -32,7 +32,7 @@ Working in groups.
 
 - Make your blog posts: reflect on your group work so far, how did your group decide on the project, did your group hit any obstacles yet? if so, how are you planning to resolve them.
 
-
+- Create the wiki page for your group following the given template. Keep it updated after every meeting. (If there is no record of your meeting or progress on that page, it did not happen!)
 
 </div>
 </div>
