@@ -10,6 +10,10 @@
 
 ### Lecture 1 
 
+Open source, code written by AI and software developer role.
+
+[slides](slides/your_career.html) 
+
 
 A bit of open source [history](slides/history.html). 
 
