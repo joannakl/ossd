@@ -2,7 +2,7 @@
 
 <div class="week_heading" markdown="1">
 ## Week 8 ( 3/9 ) 
-
+</div>
 
 <div class="column_materials"  markdown="1">
 
@@ -14,12 +14,6 @@ Open source, code written by AI and software developer role.
 
 [slides](slides/your_career.html) 
 
-
-A bit of open source [history](slides/history.html). 
-
-[Faces of Open Source](https://www.facesofopensource.com/)
-
-See the _Bio of a FOSS person_ on the course wiki. 
 
 
 ### Lecture 2
