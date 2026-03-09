@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 10 ( 3/24 )
+## Week 10 ( 3/23 )
 </div>
 
 
@@ -9,9 +9,17 @@
 
 
 
-### <span class="green">Spring Break</span>
+
+### Lecture 1 
 
 
+Midterm reflections - asynchronous, on your own on Gradescope. 
+
+
+### Lecture 2
+
+
+Group work on the selected project.  
 
 
 </div>
@@ -22,8 +30,6 @@
 
 
 ### Assignments
-
-Nothing to do, unless you did not finish things from previous weeks. 
 
 
 

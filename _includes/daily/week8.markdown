@@ -1,8 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 8 ( 3/10 ) future preview
-</div>
+## Week 8 ( 3/9 ) 
 
 
 <div class="column_materials"  markdown="1">
@@ -10,10 +9,6 @@
 
 
 ### Lecture 1 
-
-~~Invited talk by 
-[Olivier Poupeney](https://www.linkedin.com/in/olivierpoupeney//) from [FINOS](https://www.finos.org/)~~  - postponed to later date.
-
 
 
 A bit of open source [history](slides/history.html). 
@@ -25,9 +20,10 @@ See the _Bio of a FOSS person_ on the course wiki.
 
 ### Lecture 2
 
-Open Source AI Definition 
 
-presentation by [Nick Vidal](https://www.linkedin.com/in/nickvidal/) from [OSI](https://opensource.org/) 
+Group report-out: each group should prepare a 2-3 minute stand-up report containing info about the project the group picked, what that project is and why the group decided it was a good fit for them, and quick summary of progress made.
+
+Group work on the selected project.  
 
 </div>
 
@@ -39,9 +35,9 @@ presentation by [Nick Vidal](https://www.linkedin.com/in/nickvidal/) from [OSI](
 ### Assignments
 
 
-- Make your blog posts: reflect on the two presentations you saw this week? did you learn any surprising things? did you view of open source being used by financial industry change? did your ideas about open source AI change in any way? 
+- Make your blog posts: reflect on the reports made by other groups? how do their experiences compare to those of your own group? 
 
-
+- in preparation for discussions in class after the break read [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) by Eric S. Raymond (you should be reading the essay titled [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/) in this book, the second link is a direct link to the XHTML format of that essay, there are other formats available at the book site at the first link)
 
 </div>
 </div>
