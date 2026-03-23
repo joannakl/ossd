@@ -100,7 +100,7 @@ Grades will be determined using the following scale:
         F   less than 65
 
 
-The grade of *Incomplete* is reserved for students who, for legitimate and documented reason, miss the final exam. The grade of *Incomplete* **will not be given** to student who started falling behind in class. Those students should withdraw from the class or switch to *Pass/Fail* option.
+The grade of *Incomplete* is reserved for students who, for legitimate and documented reason, miss the final exam. The grade of *Incomplete* **will not be given** to students who start falling behind in class. Those students should withdraw from the class or switch to *Pass/Fail* option.
 
 
 # Topics Covered (exact list of topics  and their order subject to change, for detailed/current schedule, see the [Daily](daily.html) tab of this page. )
