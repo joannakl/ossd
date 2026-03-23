@@ -66,7 +66,7 @@ Students who successfully complete this course:
 - [The Linux Foundation's 2022 Open Source Jobs Report](https://training.linuxfoundation.org/resources/2022-open-source-jobs-report/)
 is a report on jobs in the open source world in 2022.
 
--  [The Rise of Open-Source Platform](http://www.enterprisetech.com/2015/11/12/the-rise-of-the-open-source-platform/)
+-  [The Rise of Open-Source Platform](https://web.archive.org/web/20160406190059/https://www.enterprisetech.com/2015/11/12/the-rise-of-the-open-source-platform/)
 
 
 - [Open Source Software No Longer Optional](https://cacm.acm.org/magazines/2016/8/205050-open-source-software-no-longer-optional/fulltext) By Gary Anthes, Communications of the ACM, Vol. 59 No. 8, Pages 15-17, 10.1145/2949684
