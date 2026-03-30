@@ -31,7 +31,7 @@ Group work on the selected project.
 
 ### Assignments
 
-
+The usual - make your blog post. 
 
 </div>
 </div>
