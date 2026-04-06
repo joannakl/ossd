@@ -26,67 +26,23 @@ Unless noted otherwise all content is released under [CC BY 4.0](https://creativ
 ]
 
 ---
-### Sources and Interesting Articles
 
+## Why Companies Use OSS?
 
+Traditionally, companies used Open Source to save money (Free as in beer).
 
-- [Wikipedia's Business Models for Open Source](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
-is a Wikipedia article on various business models used in the open source
-community.
+--
 
+Today, the shift is toward Strategic Agility:
 
-- [Explosive growth of open source software](https://techcrunch.com/2017/04/07/tracking-the-explosive-growth-of-open-source-software/)
-is an article about the growth of and tracking of open source software
-companies, with the [BOSS index](https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/)
-to rank them.
+- **Avoiding Vendor Lock-in** - controlling your own technical roadmap.
 
+- **Talent Magnet** - top developers want to contribute to projects that build their public reputation.
 
-- [Musings on open source software business models](https://spot.livejournal.com/327801.html)
-is  an article by Tom Callaway of RedHat (now at AWS) in which he discusses various business models
-for open source software.
+- **Accelerated Innovation** - using industry-standard "plumbing" to focus on unique features.
 
-- [TideLift.com](https://tidelift.com/about)
-is the webpage that describes TideLift, a company with a novel business plan that acts as an intermediary
-between  open source software companies and the companies that use their products.
+- **Interoperability** - ensuring your software plays well with the rest of the ecosystem.
 
-- [8 advantages of using open source in the enterprise](https://enterprisersproject.com/article/2015/1/top-advantages-open-source-offers-over-proprietary-solutions)
-is an article aimed at CIOs to convince them that open source software is good for their
-companies.
-
-
-- [10 ways to learn more about open source software and trends](https://enterprisersproject.com/article/2018/9/10-ways-learn-more-about-open-source)
-is an article aimed at CIOs with descriptions of reports, conferences, newsletters,
-and other media, to educate professionals about open source
-and its importance in the enterprise.
-
-- [The Linux Foundation's 2021 Open Source Jobs Report](https://www.linuxfoundation.org/wp-content/uploads/LFResearch_OpenSourceJobsReport_ver5.pdf)
-is a report on jobs in the open source world in 2018. To give you some idea, from the report:
-	"Open source continues its long stretch of popularity, becoming the
-	software of choice for businesses large and small."
----
-
-### Sources and Interesting Articles
-
-[The Business of Open Source Software](https://productivity-tools.cioreview.com/cxoinsight/the-business-of-open-source-software-nid-18119-cid-115.html) by Danny Windham
-
-[The Digital Economy Runs on Open Source. Here’s How to Protect It](https://hbr.org/2021/09/the-digital-economy-runs-on-open-source-heres-how-to-protect-it)
-by Hila Lifshitz-Assaf and Frank Nagle
-
-[Why You Need an Open Source Software Strategy](https://www.bcg.com/publications/2021/open-source-software-strategy-benefits)
-by  Pranay Ahlawat, Johannes Boyne, Dominik Herz, Florian Schmieg, and Michael Stephan
-
-[4 successful open source business models to consider](https://opensource.com/article/17/12/open-source-business-models)
-
-[The Business Value of Open Source ](https://wso2.com/whitepapers/the-business-value-of-open-source/)
-
-
-[Open Source Within Modern Companies](https://opensource.com/business/16/5/whats-open-source-program-office)
-is an explanation of why modern software companies need an office
-that can exert influence on various sectors of software ecosystems,
-clarify its open source messaging, maximize the clout of its projects,
-or increase the efficiency of its product development.
-
-[SaaS vs Open Core Software: An Introduction](https://gravitational.com/blog/open-core-vs-saas-intro/)
 
 ---
 
@@ -102,28 +58,55 @@ class:center,middle
 
 ---
 
-class:center,middle
+## Red Hat: The Pioneer of OSS Business
 
-## What is _the first_ company that successfully made money around open source software?
+Before Red Hat, many believed you couldn't build a billion-dollar company giving away code.
 
 --
 
-<br><br><br>
-## RedHat
+- The Early Days (1993-1999): Founded by Bob Young and Marc Ewing. They realized that while the software was free, Enterprise Stability was not.
+
+- The "Shrink-Wrap" Era: Initially sold boxed sets of Linux in bookstores. This proved there was a market for convenience and packaging.
+
+- The Subscription Pivot: They shifted from selling "versions" to selling subscriptions.
+
+    - You don't pay for the code; you pay for the certification, security patches, and support.
+
+    - This provided the recurring revenue needed to hire full-time developers to work on the Linux kernel.
+
+--
+
+Red Hat became the first open-source company to reach $1 billion in revenue (and was later acquired by IBM for $34 billion).
+
 ---
 
 
-## [4 successful open source business models to consider](https://opensource.com/article/17/12/open-source-business-models) by Daniel Rubinstein
-
+## Classic Revenue Models
+### (How to make "Free" profitable)
 
 --
 
-- Support and services
-- Advertisement partnerships
-- Paid additional features (a.k.a., open core)
-- Software-as-a-Service (SaaS)
+- **Support and Services** - selling expertise, service level agreements (SLAs), and training (e.g., Red Hat).
 
+- **Paid Additional Features (Open Core)** -  proprietary "enterprise" add-ons on top of a free core (e.g., GitLab).
 
+- **Software-as-a-Service (SaaS)** - charging for hosting, scaling, and managing the OSS (e.g., WordPress.com, MongoDB Atlas).
+
+- **Dual Licensing** charging a fee to companies who want to use the code without the restrictions of the OSS license (e.g., MySQL)
+
+--
+
+- Other Notable Models
+
+    - **Donations/Foundations** - crowdsourcing funds to keep the project neutral (e.g., Wikipedia, Mozilla).
+
+    - **"Peace of Mind" (Tidelift)** - acting as an intermediary to guarantee security and maintenance updates to enterprise consumers.
+
+    - **Bounty Driven** - paying for specific features or bug fixes (e.g., GitHub Sponsors).
+
+<!--
+    - **Indirect Revenue** - using OSS to drive adoption of a hardware platform or cloud ecosystem (e.g., Android for Google services, VS Code for Azure).
+-->
 ---
 
 ## Open core
@@ -238,12 +221,188 @@ Examples:
 - [GitHub Sponsors](https://github.com/sponsors) 
 ---
 
+class:center,middle
+
+## The "Joint Development" Era
+
+---
+
+## The Commodity vs. Differentiation Rule
+
+- In many industries, companies realized they were wasting money competing on the _"plumbing"_ (commodity).
+
+--
+
+- Commodity Layer: 
+    - file formats, 
+    - base operating systems, 
+    - network protocols.
+
+--
+
+- Differentiation Layer: 
+    - user experience, 
+    - creative artistry, 
+    - unique algorithms.
+
+--
+
+- Strategy: collaborate on the commodity layer to share costs, then compete on the differentiation layer.
+
+---
+
+## Case Study: The Film Industry
+
+
+[Academy Software Foundation (ASWF)](https://www.aswf.io/), and their [about page](https://www.aswf.io/about/)
+
+
+--
+
+- The Problem: Every studio (Disney, DreamWorks, Sony, ...) had their own formats for smoke, fire, and 3D models. Interoperability was impossible.
+
+--
+
+- The Shift: Formed the ASWF to standardize tools.
+
+- Examples:
+
+    - [OpenVDB](https://www.openvdb.org/): Standard for volumetric data (fire/smoke), originally from DreamWorks.
+
+    - [OpenColorIO](https://opencolorio.org/): Standard for color management, originally from Sony Pictures Imageworks.
+
+    - [OpenAPV](https://github.com/academysoftwarefoundation/openapv): A new royalty-free codec (Samsung) added in late 2024 to enable high-end professional video without licensing friction. This 
+    is an attempt to provide codecs that do not lose details (so AI tools can be trained on high quality, high detail data). This project 
+    also promises to keep high level of metadata guaranteeing ability to track what content was human-generated, vs. AI-generated. 
+
+--
+
+- Studios now compete on storytelling and AI-augmented creativity, not proprietary file formats or basic tool-sets.
+
+--
+
+
+[Transformation of an Industry: Open Source in Film](https://www.crowdcast.io/e/open-source-in-film)  and on [YouTube](https://www.youtube.com/watch?v=DDfD3uvsjtA)
+
+[Disney’s ‘Moana 2’ Sets Sail with Help from Open Source Tools](https://www.aswf.io/blog/disneys-moana-2-sets-sail-with-help-from-open-source-tools/)
+
+[ASF Open Source Forum, 2026](https://www.youtube.com/playlist?list=PL9dZxafYCWmzh0ZwMH0VCWM0JBGZXzRcI)
+
+---
+## Case Study: The Auto Industry
+
+[Automotive Grade Linux (AGL)](https://www.automotivelinux.org/)
+
+--
+
+- The Problem: Every car brand built a custom OS for infotainment. They were often buggy and outdated.
+
+--
+
+- The Solution: Toyota, Mazda, and Mercedes-Benz contribute to a shared Linux-based core.
+
+--
+
+- Standardize the "plumbing" (Bluetooth, WiFi, Navigation) so they can focus on custom branded apps and autonomous driving logic.
+
+- Cloud-to-Car: Collaborations (e.g., Honda, Panasonic, AWS) to standardize how vehicles talk to the cloud.
+
+- RISC-V & Flutter: Shifting toward open hardware (RISC-V) and high-performance modern UIs (Flutter) to drive the digital cockpit.
+
+--
+
+[Automotive Grade Linux at Embedded World 2025](https://www.youtube.com/watch?v=49sRxkIkDC0)
+---
+
+## Case Study: Finance & Energy
+
+- **[FINOS](https://www.finos.org/about-us) (Financial Services)** 
+    - Banks like Goldman Sachs and JPMorgan share code for regulatory compliance and data modeling.
+    - Example: [Legend](https://legend.finos.org/), a data platform open-sourced by Goldman to help the industry agree on what a "Trade" looks like.
+    - [The 2025 State of Open Source in Financial Services](https://www.finos.org/state-of-open-source-in-financial-services)
+    - [Measuring What Matters: Frank Nagle on the $9T Value & Real ROI of Open Source](https://youtu.be/COrtTWJ2AN8?si=YYGuD0LsqFMkjld6) - keynote for 2025 Open Source in Finance Forum, NY 
+
+--
+
+- **[LF Energy](https://lfenergy.org/)** 
+    - Utility companies collaborating to digitize the power grid for renewables.
+    - Example: [OperatorFabric](https://lfenergy.org/projects/operatorfabric/), used by European grid operators (RTE, Alliander) to manage real-time alerts.
+
+---
+
 ## Reasons companies may want to (or should) use open source
 
 
 [The Business of Open Source Software](https://productivity-tools.cioreview.com/cxoinsight/the-business-of-open-source-software-nid-18119-cid-115.html) by Danny Windham
 
 [8 advantages of using open source in the enterprise](https://enterprisersproject.com/article/2015/1/top-advantages-open-source-offers-over-proprietary-solutions)
+
+
+
+---
+### Sources and Interesting Articles
+
+
+
+- [Wikipedia's Business Models for Open Source](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
+is a Wikipedia article on various business models used in the open source
+community.
+
+
+- [Explosive growth of open source software](https://techcrunch.com/2017/04/07/tracking-the-explosive-growth-of-open-source-software/)
+is an article about the growth of and tracking of open source software
+companies, with the [BOSS index](https://www.battery.com/powered/boss-index-tracking-explosive-growth-open-source-software/)
+to rank them.
+
+
+- [Musings on open source software business models](https://spot.livejournal.com/327801.html)
+is  an article by Tom Callaway of RedHat (now at AWS) in which he discusses various business models
+for open source software.
+
+- [TideLift.com](https://tidelift.com/about)
+is the webpage that describes TideLift, a company with a novel business plan that acts as an intermediary
+between  open source software companies and the companies that use their products.
+
+- [8 advantages of using open source in the enterprise](https://enterprisersproject.com/article/2015/1/top-advantages-open-source-offers-over-proprietary-solutions)
+is an article aimed at CIOs to convince them that open source software is good for their
+companies.
+
+
+- [10 ways to learn more about open source software and trends](https://enterprisersproject.com/article/2018/9/10-ways-learn-more-about-open-source)
+is an article aimed at CIOs with descriptions of reports, conferences, newsletters,
+and other media, to educate professionals about open source
+and its importance in the enterprise.
+
+- [The Linux Foundation's 2021 Open Source Jobs Report](https://www.linuxfoundation.org/wp-content/uploads/LFResearch_OpenSourceJobsReport_ver5.pdf)
+is a report on jobs in the open source world in 2018. To give you some idea, from the report:
+	"Open source continues its long stretch of popularity, becoming the
+	software of choice for businesses large and small."
+---
+
+### Sources and Interesting Articles
+
+[The Business of Open Source Software](https://productivity-tools.cioreview.com/cxoinsight/the-business-of-open-source-software-nid-18119-cid-115.html) by Danny Windham
+
+[The Digital Economy Runs on Open Source. Here’s How to Protect It](https://hbr.org/2021/09/the-digital-economy-runs-on-open-source-heres-how-to-protect-it)
+by Hila Lifshitz-Assaf and Frank Nagle
+
+[Why You Need an Open Source Software Strategy](https://www.bcg.com/publications/2021/open-source-software-strategy-benefits)
+by  Pranay Ahlawat, Johannes Boyne, Dominik Herz, Florian Schmieg, and Michael Stephan
+
+[4 successful open source business models to consider](https://opensource.com/article/17/12/open-source-business-models)
+
+[The Business Value of Open Source ](https://wso2.com/whitepapers/the-business-value-of-open-source/)
+
+
+[Open Source Within Modern Companies](https://opensource.com/business/16/5/whats-open-source-program-office)
+is an explanation of why modern software companies need an office
+that can exert influence on various sectors of software ecosystems,
+clarify its open source messaging, maximize the clout of its projects,
+or increase the efficiency of its product development.
+
+[SaaS vs Open Core Software: An Introduction](https://gravitational.com/blog/open-core-vs-saas-intro/)
+
+
 
 ---
 
