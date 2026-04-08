@@ -9,17 +9,17 @@
 
 
 
-### Lecture 1 
+### Lecture 1  
 
-[_The Cathedral and the Bazaar_ discussion](slides/cathedral_bazaar_lessons.html) 
+
+
+[Business Models and Business Use of (F)OSS](slides/business_models.html) 
  
-
-[Eric S Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond) 
 
 ### Lecture 2
 
-Project work. 
-Stand up reports. 
+
+Project group work.
 
 </div>
 
@@ -30,9 +30,10 @@ Stand up reports.
 
 ### Assignments
 
-- make your blog post
-    
-    
 
+- make your blog post: reflect on the class discussion about industry use of and participation in producing open source
+
+
+- by the end of Sunday, Apr 12 **reaserch ideas about open ...** - anything other than code, then make a post on the course wiki with the info indicated in the template (basic idea, link to relevant websites and organizations) and be ready to say a few words about it in class on Monday 
 </div>
 </div>
