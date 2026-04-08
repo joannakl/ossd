@@ -9,20 +9,17 @@
 
 
 
-### Lecture 1 
+### Lecture 1  
 
-Project group work. 
 
-Stand up reports. Plan to quickly summarize:
-- your major accomplishments so far
-- your biggest disappointments with the project and how you are dealing with them 
-- your plan of action for the next three weeks 
 
+[Business Models and Business Use of (F)OSS](slides/business_models.html) 
+ 
 
 ### Lecture 2
 
-Open source in business / industry. 
 
+Project group work.
 
 </div>
 
@@ -34,7 +31,9 @@ Open source in business / industry.
 ### Assignments
 
 
-- make your blog post:
+- make your blog post: reflect on the class discussion about industry use of and participation in producing open source
 
+
+- by the end of Sunday, Apr 12 **reaserch ideas about open ...** - anything other than code, then make a post on the course wiki with the info indicated in the template (basic idea, link to relevant websites and organizations) and be ready to say a few words about it in class on Monday 
 </div>
 </div>
