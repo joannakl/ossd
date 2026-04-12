@@ -28,8 +28,8 @@ title:  Syllabus, CSCI-UA 480, Klukowska
     - willingness to participate in class discussions (you cannot go through this class by sitting quietly in a corner and never voicing any opinions)
 * Important Dates
     - Midterm Exam/Reflections (these dates may change if there are any schedule changes): {{ site.midterm_exam_date }}
-    - Final Exam/Reflections: (date and time subject to change by CAS, check the dates posted by the department
-        [here]( {{site.final_exams_link}} ) and listed in Albert ) {{ site.final_exam_date }}
+    - Final Exam/Reflections (date and time subject to change by CAS, check the dates posted by the department
+        [here]( {{site.final_exams_link}} ) and listed in Albert): {{ site.final_exam_date }}
 
 
 
