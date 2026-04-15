@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 12 ( 4/7 )
+## Week 12 ( 4/8 )
 </div>
 
 
@@ -36,4 +36,4 @@ Project group work.
 
 - by the end of Sunday, Apr 12 **reaserch ideas about open ...** - anything other than code, then make a post on the course wiki with the info indicated in the template (basic idea, link to relevant websites and organizations) and be ready to say a few words about it in class on Monday 
 </div>
-</div>
+</div>8
