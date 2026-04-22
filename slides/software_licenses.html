@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>FOSS - Legal Aspects and Licensing</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link href="css/slides.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# CSCI-UA 480: OSSD
+
+<br>
+
+# Legal Aspects and Licensing in (F)OSS
+
+.author[
+Instructor: Joanna Klukowska <br>
+]
+
+.license[
+Unless noted otherwise all content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+]
+
+---
+
+## Key Definitions
+
+As framed by Tom Callaway in his talks on open source licensing:
+
+--
+
+- **Copyright:** The exclusive, legally secured right to reproduce, distribute, and perform a creative work. 
+    - *In plain English:* You made it, so you automatically control who gets to copy, change, or share it.
+
+--
+
+- **Legalese:** The formal and technical language of legal documents.
+    - *In plain English:* The dense, confusing language lawyers use that makes developers want to run away. 
+
+--
+
+- **Software License:** A legal instrument (usually written in legalese) governing the use or redistribution of software. 
+    - *The Core Concept:* Because copyright automatically says **"No, you can't do anything with my work"**, a license is the legal document that says **"Yes, you can... but only if you follow these specific conditions."**
+
+---
+
+## Copyright: The Default State of Software
+
+Before we understand open source, we must understand copyright.
+
+--
+
+- **Automatic Protection:** The moment you write code and save it to disk, it is automatically protected by copyright law. 
+
+- **"All Rights Reserved":** By default, no one else has the right to copy, modify, distribute, or run your code. 
+
+- **Public Does Not Mean Open:** If you upload a repository to GitHub without a license, it is public, but it is **not open source**. Others can look at it, but using it is legally risky (or outright copyright infringement).
+
+--
+
+*Conclusion: To share software, we need a legal mechanism to override the default "All Rights Reserved" state.*
+
+---
+
+## Why Do We Need Licenses?
+
+A software license is a legal document that provides **guidelines for use and distribution**. 
+
+--
+
+**Traditional Paid / Proprietary Licenses:**
+- You are likely familiar with purchasing a software license (e.g., Mathematica from Wolfram, or Adobe Creative Cloud).
+- You pay for the **right to use** the compiled software (often for a limited time, like an annual subscription, or for a single device). 
+- You *do not* own the software, nor do you get the right to see the source code, modify it, or share it with others.
+
+--
+
+**Open Source Licenses:**
+Instead of paying for access, an open source license overrides "All Rights Reserved" to create a scenario of **"Some Rights Reserved"**:
+
+- **Permissions:** What are you allowed to do? (Copy, modify, distribute, use commercially).
+- **Conditions:** What must you do in return? (Include the original author's name, share your modifications).
+- **Limitations:** What protections does the author have? (No warranty, no liability if the code breaks your system).
+
+--
+
+Without an explicit license, collaboration is legally impossible. Open Source relies on these standardized licenses to function.
+
+---
+
+## What About the "Public Domain"?
+
+Sometimes developers try to bypass licenses entirely by declaring their code is in the "Public Domain" - **this is not a good idea**.
+
+--
+
+- **Definition:** A work in the public domain has no copyright owner. Anyone can use, modify, and distribute it without permission or attribution.
+
+--
+
+- **Jurisdictional Issues:** "Public domain" is a legal concept that varies wildly by country. 
+    - In the US, you can dedicate a work to the public domain (i.e., give up your copyright). 
+    - In many European jurisdictions (e.g., Germany, France), *moral rights* cannot be completely waived, making it legally impossible for a living creator to completely abandon their copyright.
+
+--
+
+- **Why It's Bad for Software:**
+    - **Legal Uncertainty:** Because the concept isn't recognized globally, corporate lawyers won't touch "public domain" code.
+    - **No Liability Shield:** Open source licenses include a clause stating the software comes with "no warranty." Dedicating to the public domain removes this shield, potentially leaving the developer legally liable if the code breaks a critical system.
+
+--
+
+*Solution:* Instead of "Public Domain," use a highly permissive license (like MIT) or a legal tool designed to fallback to a license if the public domain dedication fails (like **CC0**).
+
+---
+
+## Creative Commons (CC) Licenses
+
+Creative Commons provides a suite of licenses designed for **creative works** (art, writing, video, documentation), but they are fundamentally different from software licenses.
+
+--
+
+- **The Flavors of CC:**
+    - **CC BY:** Attribution only.
+    - **CC BY-SA:** ShareAlike (similar to copyleft).
+    - **CC BY-NC:** NonCommercial (*Note: OSI does not consider "NonCommercial" restrictions to be Open Source!*)
+    - **CC BY-ND:** NoDerivatives.
+
+--
+
+- **Are they applicable to software?** Generally, **NO**. 
+    - Creative Commons explicitly recommends *against* using CC licenses for software.
+    - CC licenses do not distinguish between "source code" and "compiled object code."
+    - They lack explicit patent grant clauses or software-specific liability shields.
+
+--
+
+*Conclusion:* Use OSI-approved licenses (MIT, GPL) for your code. Use CC licenses for your **software documentation**, wikis, or educational materials (like these slides!).
+
+---
+
+
+class:center,middle
+
+## The Origins of Open Source Licenses
+
+---
+
+## RMS and the Informal "Napkin" Agreements
+
+In the 1970s and early 1980s, software was often shared informally in academic circles (like the MIT AI Lab). Hackers simply passed around tapes.
+
+--
+
+- **The Turning Point:** Richard M. Stallman (RMS) could not get the source code to fix a paper jam in a new Xerox laser printer because the code had become proprietary and closed.
+
+- **Early Licensing:** As RMS began writing GNU programs (like GNU Emacs), he initially shared them using informal, ad-hoc agreements—often jokingly referred to as "licenses on a napkin" or basic README text files outlining sharing expectations.
+
+- **The Problem:** These informal agreements lacked legal rigor. What happened if someone took Emacs, improved it, and locked away the improvements?
+
+---
+
+## Example: The "Napkin" Evolves (1985)
+
+Before the standardized GPL existed, Richard Stallman attached a specific "Copying Permission Notice" to GNU Emacs. 
+
+This early text bridges the gap between an informal hacker agreement and a strict legal license:
+
+> "GNU Emacs is free; this means that everyone is free to use it and free to redistribute it on a free basis. GNU Emacs is not in the public domain; it is copyrighted and there are restrictions on its distribution, but these restrictions are designed to permit everything that a good cooperating citizen would want to do. 
+> <br><br>
+> **What is not allowed is to try to prevent others from further sharing any version of GNU Emacs that they might get from you.**"
+> <br> — *Emacs General Public License (1985)*
+
+--
+
+*Notice the shift in legal thinking:* RMS used his copyright **not** to restrict the end-user, but to restrict the "middleman" from taking the code, modifying it, and locking it away. This was the birth of the **Copyleft** hack.
+
+---
+
+## The Birth of the GNU General Public License (GPL)
+
+Stallman realized that simply putting code into the "Public Domain" meant companies could take the code, make it proprietary, and not share back.
+
+--
+
+- **The Emacs General Public License (1985):** Stallman drafted a formal license for GNU Emacs that guaranteed users the freedom to share and change the software, but *required* that all modified versions be distributed under those same terms.
+
+- **The First GPL (1989):** Stallman generalized the Emacs license into the **GNU General Public License (GPL)** so it could be applied to *any* project.
+
+- **"Copyleft":** This concept flipped copyright on its head. Instead of restricting sharing, it used copyright law to **mandate** sharing.
+
+---
+
+class:center,middle
+
+## Two Main Camps:
+## Permissive vs. Copyleft
+
+---
+
+## Permissive Licenses
+
+Permissive licenses are often summarized as: *"Do whatever you want with this code, just don't sue me, and leave my name on the copyright notice."*
+
+--
+
+- **Key Trait:** They place minimal restrictions on how the software can be used, modified, and redistributed.
+
+- **Proprietary Integration:** You can take permissively licensed code, modify it, compile it, and sell it as proprietary, closed-source software. You are not obligated to release your changes.
+
+- **Business Appeal:** Highly preferred by large tech corporations because it allows them to consume open source freely without risking their proprietary IP.
+
+---
+
+## Copyleft (Viral) Licenses
+
+Copyleft licenses are summarized as: *"You can do whatever you want with this code, but if you distribute a modified version, you must share your source code under these exact same terms."*
+
+--
+
+- **Key Trait:** They ensure that the software, and any modified versions of it, remain free and open source forever.
+
+- **The "Viral" Effect:** If you integrate GPL code into your proprietary project and distribute the resulting binary, your *entire project* must now be open-sourced under the GPL.
+
+- **Community Appeal:** Preferred by developers who want to prevent corporations from profiting off their free labor without contributing back to the community.
+
+---
+
+## Examples of Copyleft Licenses
+
+- **GNU GPL (v2 & v3):** The standard strong copyleft license. Requires any distributed derivative work to be open-sourced. Version 3 added protections against DRM (Tivoization) and patent trolls.
+    - *Used by: Linux Kernel (GPLv2), Git (GPLv2), Bash (GPLv3).*
+
+- **GNU LGPL (Lesser GPL):** Created primarily for **shared libraries**. It acts as a "weak copyleft." You can link a proprietary, closed-source application to an LGPL library without needing to open-source your entire application. However, any modifications made to the LGPL library *itself* must be released.
+    - *Used by: FFmpeg, GTK, GNU C Library (glibc).*
+
+- **GNU AGPL (Affero GPL):** Closes the "SaaS loophole" in the standard GPL. If you modify AGPL code and run it on a server for users to access over a network, you *must* provide them the source code, even if you never distributed the binary.
+    - *Used by: Mastodon, Plausible Analytics.*
+
+
+- [GPL explained by Tom Callaway](https://youtu.be/PTYuDrQpyH0?t=1655)
+
+---
+
+## Examples of Permissive Licenses
+
+- **MIT License:** One of the shortest, oldest, and most popular licenses. Almost no restrictions other than requiring attribution. 
+    - *Used by: jQuery, React, Ruby on Rails.*
+
+- **Apache License 2.0:** Similar to MIT, but includes an explicit grant of **patent rights**. If an author patents a piece of the code, they explicitly grant you the right to use that patent for free by using the software.
+    - *Used by: Kubernetes, Android, TensorFlow.*
+
+- **BSD (2-Clause / 3-Clause):** Very similar to MIT. The 3-Clause version explicitly prevents users from using the original creator's name to endorse or promote derived products without permission.
+
+- [Permissive by Tom Callaway](https://youtu.be/PTYuDrQpyH0?t=1905)
+
+---
+
+## Hybrid Licenses
+
+
+- **Mozilla Public License (MPL 2.0):** A "weak" copyleft license. If you modify a specific MPL file, you must open-source that file. But you can combine MPL files with proprietary files in a larger project without open-sourcing the whole thing.
+
+
+- [MPL by Tom Callaway](https://youtu.be/PTYuDrQpyH0?t=2219)
+
+---
+
+## Software with Multiple Licenses
+
+Sometimes a software project involves more than one license. This generally falls into two legal situations:
+
+--
+
+**Disjunctive Licensing (The "OR" Case - User Chooses)**
+- The creator offers the software under multiple licenses, and the user gets to pick which one to use.
+- **Why?** 
+    - *Business Models (Dual Licensing):* Offer a free GPL version to the community, and sell a proprietary license to companies who want to keep their modifications closed (e.g., MySQL, MongoDB before SSPL).
+    - *License Compatibility:* Historically, Perl gave you the choice of the Artistic License OR the GPL, ensuring it could legally mix with other codebases.
+
+--
+
+**Conjunctive Licensing (The "AND" Case - Comply with All)**
+- The software contains components from different authors under different licenses. The user must comply with **all** of them simultaneously.
+- **Why?**
+    - *Modern Dependencies:* If you write an app that pulls in an MIT-licensed library, an Apache 2.0 framework, and a BSD tool, your final software package is a combined work. You must include the copyright notices and fulfill the conditions for *every single one* of those licenses.
+    - *Rule of Thumb:* The most restrictive license in the mix usually dictates how you can distribute the final combined project.
+
+---
+
+## Licensing Non-Code Assets
+
+A modern software repository is rarely just source code. It often includes documentation, UI designs, fonts, and media. **Open source software licenses (like GPL or MIT) are poorly suited for these non-code assets.**
+
+--
+
+- **Documentation, Media, and Art (Video/Audio/Images):**
+    - *License:* **Creative Commons (CC BY or CC BY-SA)**
+    - *Why:* Software licenses govern concepts like "compiling" and "object code," which don't apply to a PNG or a PDF. CC licenses are designed explicitly for human-readable content and art.
+
+--
+
+- **Fonts:**
+    - *License:* **SIL Open Font License (OFL)**
+    - *Why:* Fonts have unique edge cases. If you use a GPL font in a PDF, does the PDF become GPL? The OFL ensures the font remains open, but explicitly allows it to be embedded in documents without "infecting" the document itself.
+
+--
+
+- **Databases and Datasets:**
+    - *License:* **Open Data Commons (ODbL) or CC0**
+    - *Why:* In many jurisdictions, raw facts/data cannot be copyrighted, but the *structure* of a database can be. Standard code licenses do not cover "database rights" (sui generis rights), so specific data licenses are required.
+
+
+---
+
+## How to Choose a License?
+
+Choosing a license depends heavily on your goals for the project:
+
+--
+
+- **Goal: Maximum adoption and least friction.** - *Choice:* MIT or Apache 2.0. You want everyone (including massive corporations) to use your library.
+- **Goal: Protect the ecosystem and force sharing.**
+    - *Choice:* GPLv3. You want to ensure no one can make a closed-source knock-off of your tool.
+- **Goal: Build a SaaS business safely.**
+    - *Choice:* AGPL. You want to ensure cloud providers (like AWS) can't host your software as a service without contributing back.
+
+*Note:* You can explore license options interactively at [ChooseALicense.com](https://choosealicense.com/).
+
+- [_How to chose a licese_ by Tom Callaway](https://youtu.be/PTYuDrQpyH0?t=3271) 
+
+---
+
+## The Ethics of AI "Code Laundering"
+
+One of the newest challenges in open source is AI-driven "clean room" services, such as **Malus.sh**.
+--
+
+#### What is Malus.sh?
+
+- **Their Business Offering:** You give them an open-source dependency (even a strict AGPL one). Their AI robots read *only* the public documentation and API specs.
+- **The Process:** The AI writes a functionally identical replacement from scratch, without ever looking at the original source code. 
+- **The Legal Loophole:** Because the AI "never saw the code," they claim the result is 100% legally distinct. It bypasses copyright, attribution, and copyleft "contamination" using the legal precedent of *clean room design*.
+
+--
+
+#### Why This is "Just Not Right"
+
+While this *might* hold up in court (I do not think it has been tested yet), it fundamentally violates professional ethics:
+
+- **Breaking the Social Contract:** Open source is an exchange. Maintainers give you free code; you agree to minimal friction (like attribution). Services like Malus prioritize corporate convenience over giving credit to the humans who did the work.
+- **Parasitic Innovation:** The AI still relies on the massive human labor required to design the API, write the docs, and standardize the interface.
+- **Legality &ne; Morality:** Just because an offshore service found a copyright loophole to strip developers of credit does not mean it aligns with the ethical standards of software engineering.
+
+
+---
+
+
+
+## Crazy Licenses - DO NOT USE
+
+[Summary of _Crazy Licenses_ (with a touch of humor) by Tom Callaway](https://youtu.be/PTYuDrQpyH0?t=2839) 
+
+---
+
+### Presentations and Talks 
+
+- [Apache’s Jim Jagielski on the Changing Philosophies of Open Source Licensing](https://www.youtube.com/watch?v=WbgcIcNErKg)
+
+- [Understanding FOSS licenses (without a lawyer) by Tom Callaway, Southern California Linux Expo](https://www.youtube.com/watch?v=PTYuDrQpyH0), adds discussion about trademarks and patents
+- 
+
+---
+
+### Sources and Required Reading
+
+- **Open Source Initiative (OSI):**
+  - [The Open Source Definition](https://opensource.org/osd) - The strict criteria a license must meet to be considered true "Open Source".
+  - [Licenses by Category](https://opensource.org/licenses/) - The official registry of approved licenses.
+- **Free Software Foundation (FSF):**
+  - [The GNU Project History](https://www.gnu.org/gnu/thegnuproject.html) - RMS's account of the origins of GNU, Emacs, and the GPL.
+  - [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html) - Detailed breakdowns of what is and isn't a Free Software license.
+- **Developer Guides:**
+  - [ChooseALicense.com](https://choosealicense.com/licenses/) - Maintained by GitHub, a plain-English guide to comparing licenses.
+  - [Producing Open Source Software: Chapter 9 (Legal Matters)](https://producingoss.com/en/legal.html) by Karl Fogel. An excellent textbook chapter explicitly written for developers, not lawyers.
+  - [TLDRLegal](https://www.tldrlegal.com/) - Software licenses summarized in plain English.
+
+    </textarea>
+     <script src="js/remark.js" type="text/javascript">
+    </script>
+    <script src="js/remark_conf.js" type="text/javascript">
+    </script>
+
+  </body>
+</html>

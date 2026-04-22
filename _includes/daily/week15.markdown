@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 13 ( 4/13 )
+## Week 15 ( 4/27 )
 </div>
 
 
@@ -11,15 +11,21 @@
 
 ### Lecture 1  
 
+Project presentations: 
 
+- KeyCloak
+- Nanobot
+- Affine
 
-Open and ... - discussion of projects that apply open source ideas to other field. Examples: open seeds project, open cola,  open educational resources, ... 
- 
 
 ### Lecture 2
 
+Project presentations: 
 
-Project group work.
+- Actual Budget
+- p5.js
+- Frosty
+
 
 </div>
 
@@ -31,7 +37,7 @@ Project group work.
 ### Assignments
 
 
-- make your blog post
+- make your blog post: talk about your group work on your project and presentations you saw this week 
 
 </div>
 </div>

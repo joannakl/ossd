@@ -1,7 +1,7 @@
 <div class="week">
 
 <div class="week_heading" markdown="1">
-## Week 13 ( 4/13 )
+## Week 14 ( 4/20 )
 </div>
 
 
@@ -11,10 +11,7 @@
 
 ### Lecture 1  
 
-
-
-Open and ... - discussion of projects that apply open source ideas to other field. Examples: open seeds project, open cola,  open educational resources, ... 
- 
+Open source software licenses, [slides](slides/software_licenses.html)
 
 ### Lecture 2
 
@@ -31,7 +28,7 @@ Project group work.
 ### Assignments
 
 
-- make your blog post
+- make your blog post: talk about your group work on your project 
 
 </div>
 </div>
