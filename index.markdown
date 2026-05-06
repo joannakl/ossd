@@ -59,7 +59,7 @@ Students who successfully complete this course:
 <iframe width="560" height="315"   src="https://www.youtube.com/embed/7c0IrsDsNaw" frameborder="10" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-- [Webopedia](http://www.webopedia.com/TERM/S/software.html) : software definition, software vs. hardware
+- [Webopedia](https://www.webopedia.com/definitions/software/) : software definition, software vs. hardware
 
 -  [Computer Science Education in the 21<sup>st</sup> Century](http://goo.gl/400cMX) by David A. Patterson, Commun. ACM 49, (3): 27-30 (March, 2006)
 

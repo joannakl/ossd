@@ -17,7 +17,7 @@ If you are not present in the class, the attendance and engagement parts of the 
 
 |Score | Preparation (40%)|  Attendance (30%) | Engagement (30%)|
 |:---:|:---|:---|:---|
-|0|Failed to post any comments or questions. | Did not attend the class or was not present for significant portions of class period. | Did not particiapate in class discussion at all.|
+|0|Failed to post any comments or questions. | Did not attend the class or was not present for significant portions of class period. | Did not participate in class discussion at all.|
 |✓-| Demonstrated only minimal familiarity and interest in the assigned materials.  | Attended class but may have been late and/or left the room with unusual frequency or duration |Minimally participated in class discussions.   |
 |✓ | Demonstrated __expected__ familiarity with assigned materials. | Attended class, was on time and present in the class throughout period.|Engaged in discussion and activities.  |
 |✓+| Demonstrated __strong__ familiarity with the assigned materials.  Took initiative in finding and sharing related content. Approached the materials in unique and creative ways. | Unused. | Engaged in discussions and activities in an exceptional way that enhanced it for everyone. |
@@ -51,7 +51,7 @@ WARNING: if you do not configure your blog site properly at the start of the sem
 |✓++| Unused. | Unused. | Additionally, post shows personal insights, carefully thought out reflections and  creativity.  |
 
 <br> If you find writing blog posts challenging, some good advice on writing effective blog entries can be found at:
-- [Effective Academic Blogging](http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
+- [Effective Academic Blogging](https://web.archive.org/web/20231001044255/http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
 - [Blogs](http://writingcenter.unc.edu/handouts/blogs/) from The Writing Center at UNC-Chapel Hill.
 - [How to write a great technical blog post](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/) from freeCodeCamp. 
 - There is no shortage of other advice, just google "How to write a blog" and find something that resonates with you and matches the goals of the course.
