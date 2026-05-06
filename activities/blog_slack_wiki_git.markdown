@@ -9,7 +9,7 @@ layout: activity
  Professional and open source software development makes use of many different communication channels, each with its own strengths and purpose.
  We will be making use of several such communication channels (blogs, Ed discussion forum, course wiki, GitHub organization) in this class and many of you will find yourselves also using others (IRC/Gitter/Discord/etc.) as they apply to your selected projects.
 
- You will also be contributing to projects hosted on several sites: GtiHub, Wikipedia, OpenStreetMap  and others as they apply to your selected projects.
+ You will also be contributing to projects hosted on several sites: GitHub, Wikipedia, OpenStreetMap  and others as they apply to your selected projects.
 
  The start of the semester is a good time to get organized and setup access to some of these platforms. It is also the time to share the information 
  about your usernames and accounts with the rest of the class, since we will be keeping an eye on your activities. 
@@ -91,7 +91,7 @@ If you do not wish the user name to be easily associated with you, pick somethin
 ## Course Wiki
 
 The course [organization on GitHub](https://github.com/ossd-s26) contains a private repository called wiki. 
-The repository will remain empty throughtout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s26/wiki/wiki). 
+The repository will remain empty throughout the semester, but we will be using [__its Wiki__ pages](https://github.com/ossd-s26/wiki/wiki). 
 We will use this for content that needs to be jointly edited by everybody in the class. All of you should have write access to the existing pages and permission to create new pages.
 
 This is a private wiki, so only people in the class have access to it.

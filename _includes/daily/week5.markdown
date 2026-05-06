@@ -33,7 +33,7 @@ Due by the end of the week (i.e., by the end of Sunday)
 
 - Clone the repository called [taking stock](https://github.com/ossd-s26/taking_stock) from the class organization. Use it
 to organize your goals and motivations for the open source contributions, your skills and resources that you are bringing
-to the table, and your interests that may play a role in your choice of a project and the team that you end you end up working with. This is for your private account and you do not need to submit anything. But you should treat it seriously.
+to the table, and your interests that may play a role in your choice of a project and the team that you end up working with. This is for your private account and you do not need to submit anything. But you should treat it seriously.
 
 - Read a few project evaluations created by other students. Focus on projects that you are familiar with or that seem to fit your project preferences. 
 

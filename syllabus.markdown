@@ -158,7 +158,7 @@ The grade of *Incomplete* is reserved for students who, for legitimate and docum
 ---
 
 I follow the department's
-[academic integrity rules](http://cs.nyu.edu/webapps/content/academic/undergrad/academic_integrity).
+[academic integrity rules](https://cs.nyu.edu/dynamic/undergraduates/overview/academic-integrity-privacy/).
 
 The nature of open source is based on collaborative work. But that work is still performed by individuals.
 Your name should not be associated with a contribution that is not your own or that you have not put significant amount
