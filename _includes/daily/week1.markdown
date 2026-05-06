@@ -33,7 +33,7 @@ __Materials__:
   - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 - Blogging. If you have never written a blog or are looking for ideas on what makes good blog posts, some good advice on writing effective blog entries can be found at:
-  - [Effective Academic Blogging](http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
+  - [Effective Academic Blogging](https://web.archive.org/web/20231001044255/http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
   - [Blogs](http://writingcenter.unc.edu/handouts/blogs/) from The Writing Center at UNC-Chapel Hill.
   - [Writing a Blog](https://www.youtube.com/watch?v=DWeXddNcN00) workshop video from the Indiana University of Pennsylvania (IUP) Writing Center.
 
