@@ -51,7 +51,7 @@ WARNING: if you do not configure your blog site properly at the start of the sem
 |✓++| Unused. | Unused. | Additionally, post shows personal insights, carefully thought out reflections and  creativity.  |
 
 <br> If you find writing blog posts challenging, some good advice on writing effective blog entries can be found at:
-- [Effective Academic Blogging](http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
+- [Effective Academic Blogging](https://web.archive.org/web/20231001044255/http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
 - [Blogs](http://writingcenter.unc.edu/handouts/blogs/) from The Writing Center at UNC-Chapel Hill.
 - [How to write a great technical blog post](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/) from freeCodeCamp. 
 - There is no shortage of other advice, just google "How to write a blog" and find something that resonates with you and matches the goals of the course.
