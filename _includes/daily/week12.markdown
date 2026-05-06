@@ -34,6 +34,6 @@ Project group work.
 - make your blog post: reflect on the class discussion about industry use of and participation in producing open source
 
 
-- by the end of Sunday, Apr 12 **reaserch ideas about open ...** - anything other than code, then make a post on the course wiki with the info indicated in the template (basic idea, link to relevant websites and organizations) and be ready to say a few words about it in class on Monday 
+- by the end of Sunday, Apr 12 **research ideas about open ...** - anything other than code, then make a post on the course wiki with the info indicated in the template (basic idea, link to relevant websites and organizations) and be ready to say a few words about it in class on Monday 
 </div>
-</div>8
+</div>

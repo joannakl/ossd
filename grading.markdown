@@ -17,7 +17,7 @@ If you are not present in the class, the attendance and engagement parts of the 
 
 |Score | Preparation (40%)|  Attendance (30%) | Engagement (30%)|
 |:---:|:---|:---|:---|
-|0|Failed to post any comments or questions. | Did not attend the class or was not present for significant portions of class period. | Did not particiapate in class discussion at all.|
+|0|Failed to post any comments or questions. | Did not attend the class or was not present for significant portions of class period. | Did not participate in class discussion at all.|
 |✓-| Demonstrated only minimal familiarity and interest in the assigned materials.  | Attended class but may have been late and/or left the room with unusual frequency or duration |Minimally participated in class discussions.   |
 |✓ | Demonstrated __expected__ familiarity with assigned materials. | Attended class, was on time and present in the class throughout period.|Engaged in discussion and activities.  |
 |✓+| Demonstrated __strong__ familiarity with the assigned materials.  Took initiative in finding and sharing related content. Approached the materials in unique and creative ways. | Unused. | Engaged in discussions and activities in an exceptional way that enhanced it for everyone. |

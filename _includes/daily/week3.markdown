@@ -21,7 +21,7 @@ Looking at first few projects, their repository structure, important documents, 
 Create your first open source project (at least, in this class).
 
 Find your team members and make sure you are sitting together so that
-you can work together. The team assignment are at https://github.com/ossd-s26/wiki/wiki/First-Project-Activity - you need to be part of the course to access this page. 
+you can work together. The team assignment is at https://github.com/ossd-s26/wiki/wiki/First-Project-Activity - you need to be part of the course to access this page. 
 
 
 The instructions for the activity are in a [private repository for the class](https://github.com/ossd-s26/add-on-activity) 
